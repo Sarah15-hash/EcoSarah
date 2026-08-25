@@ -1,5 +1,5 @@
 # 🔥 LinkedIn — Sarah Finance Roles
-*Last updated: 2026-08-25 16:53 UTC*
+*Last updated: 2026-08-25 19:15 UTC*
 
 **8 new role(s)** since last run · 8 total in last 1h
 
