@@ -1,7 +1,7 @@
 {
   "_README": "ONE config file drives the whole tracker (scraper + dashboard). Edit it by hand. After editing, commit it and re-run the workflows. All matching is case-insensitive substring on the JOB TITLE unless noted.",
   "profile": {
-    "title": "Egypt Finance Job Tracker",
+    "title": "Sarah Finance Job Tracker",
     "subtitle": "Egypt · Credit / Portfolio / Risk / Investment",
     "emoji": "💼"
   },

@@ -18,7 +18,10 @@ Set up (GitHub → Settings → Secrets and variables → Actions):
   Telegram:
     TELEGRAM_BOT_TOKEN  bot token from @BotFather
     TELEGRAM_CHAT_ID    your chat id (from @userinfobot, or the bot's own
-                         getUpdates endpoint after you message it once)
+                         getUpdates endpoint after you message it once).
+                         Comma- or whitespace-separated for multiple
+                         recipients, e.g. "111111111,222222222" — each gets
+                         the same alert as a private 1:1 chat with the bot.
 Either channel works alone; set both secrets pairs to get pinged on both.
 
 The opt-in weekly digest (a separate feature) still uses the deterministic
@@ -54,7 +57,6 @@ DASHBOARD_URL = (
     if "/" in _gh_repo
     else "triage.html"
 )
-MAX_PUSHES_PER_RUN = 8     # cap individual pings; the rest get one summary
 NOTIFIED_KEEP = 600        # remember this many recent jobs to avoid repeats
 
 # Priority-topic stars — keep in sync with STAR_TERMS in triage.html.
@@ -134,6 +136,11 @@ def _min_fit() -> int:
 
 def _truthy(value: str | None) -> bool:
     return str(value or "").strip().lower() in {"1", "true", "yes", "y", "on"}
+
+
+def _telegram_chat_ids(raw: str | None) -> list[str]:
+    """TELEGRAM_CHAT_ID may hold one id or several, comma/whitespace-separated."""
+    return [c for c in re.split(r'[,\s]+', str(raw or "").strip()) if c]
 
 
 def _load_config() -> dict:
@@ -573,9 +580,9 @@ def notify_new_jobs(new_jobs: list, source_label: str = ""):
     pushover_token = os.environ.get("PUSHOVER_TOKEN")
     pushover_user = os.environ.get("PUSHOVER_USER")
     telegram_token = os.environ.get("TELEGRAM_BOT_TOKEN")
-    telegram_chat_id = os.environ.get("TELEGRAM_CHAT_ID")
+    telegram_chat_ids = _telegram_chat_ids(os.environ.get("TELEGRAM_CHAT_ID"))
     has_pushover = bool(pushover_token and pushover_user)
-    has_telegram = bool(telegram_token and telegram_chat_id)
+    has_telegram = bool(telegram_token and telegram_chat_ids)
     if not has_pushover and not has_telegram:
         return  # notifications disabled — no creds on any channel
 
@@ -594,8 +601,7 @@ def notify_new_jobs(new_jobs: list, source_label: str = ""):
         _save_notified(notified)
         return
 
-    sent = 0
-    for job in picks[:MAX_PUSHES_PER_RUN]:
+    for job in picks:
         title = f"🆕 {job.get('title', 'New role')}"
         msg = f"{job.get('company', '?')} — {job.get('location', '')}"
         if job.get("salary"):
@@ -604,21 +610,12 @@ def notify_new_jobs(new_jobs: list, source_label: str = ""):
             send_pushover(pushover_token, pushover_user, title=title, message=msg,
                           url=job.get("url", ""), url_title="Open posting")
         if has_telegram:
-            send_telegram(telegram_token, telegram_chat_id, title=title, message=msg,
-                          url=job.get("url", ""), url_title="Open posting")
-        sent += 1
-
-    extra = len(picks) - sent
-    if extra > 0:
-        summary = f"+{extra} more new role(s) — open the dashboard."
-        if has_pushover:
-            send_pushover(pushover_token, pushover_user, title="🆕 More new roles", message=summary)
-        if has_telegram:
-            send_telegram(telegram_token, telegram_chat_id, title="🆕 More new roles", message=summary)
+            for chat_id in telegram_chat_ids:
+                send_telegram(telegram_token, chat_id, title=title, message=msg,
+                              url=job.get("url", ""), url_title="Open posting")
 
     channels = "+".join(c for c, on in (("Pushover", has_pushover), ("Telegram", has_telegram)) if on)
-    print(f"  📲 {channels}: notified {sent} new role(s)"
-          + (f" (+{extra} summarized)" if extra else ""))
+    print(f"  📲 {channels}: notified {len(picks)} new role(s)")
     _save_notified(notified)
 
 
@@ -663,14 +660,14 @@ def send_test() -> bool:
     pushover_token = os.environ.get("PUSHOVER_TOKEN")
     pushover_user = os.environ.get("PUSHOVER_USER")
     telegram_token = os.environ.get("TELEGRAM_BOT_TOKEN")
-    telegram_chat_id = os.environ.get("TELEGRAM_CHAT_ID")
+    telegram_chat_ids = _telegram_chat_ids(os.environ.get("TELEGRAM_CHAT_ID"))
     has_pushover = bool(pushover_token and pushover_user)
-    has_telegram = bool(telegram_token and telegram_chat_id)
+    has_telegram = bool(telegram_token and telegram_chat_ids)
 
     print(f"PUSHOVER_TOKEN:     {'(set)' if pushover_token else '(not set)'}")
     print(f"PUSHOVER_USER:      {'(set)' if pushover_user else '(not set)'}")
     print(f"TELEGRAM_BOT_TOKEN: {'(set)' if telegram_token else '(not set)'}")
-    print(f"TELEGRAM_CHAT_ID:   {'(set)' if telegram_chat_id else '(not set)'}")
+    print(f"TELEGRAM_CHAT_ID:   {(str(len(telegram_chat_ids)) + ' id(s) set') if telegram_chat_ids else '(not set)'}")
 
     if not has_pushover and not has_telegram:
         print("\n❌ No channel configured. Set PUSHOVER_TOKEN+PUSHOVER_USER and/or "
@@ -692,14 +689,17 @@ def send_test() -> bool:
               else "❌ Pushover send failed (see error above — usually a wrong token or user key).")
         ok = ok and r
     if has_telegram:
-        r = send_telegram(
-            telegram_token, telegram_chat_id,
-            title="🆕 Job_Scraper — test notification",
-            message=message, url=DASHBOARD_URL, url_title="Open dashboard",
-        )
-        print("✅ Telegram test sent — check your chat." if r
-              else "❌ Telegram send failed (see error above — usually a wrong bot token or chat id).")
-        ok = ok and r
+        tg_ok = True
+        for chat_id in telegram_chat_ids:
+            r = send_telegram(
+                telegram_token, chat_id,
+                title="🆕 Job_Scraper — test notification",
+                message=message, url=DASHBOARD_URL, url_title="Open dashboard",
+            )
+            print(f"✅ Telegram test sent to {chat_id} — check that chat." if r
+                  else f"❌ Telegram send failed for {chat_id} (see error above — usually a wrong bot token or chat id).")
+            tg_ok = tg_ok and r
+        ok = ok and tg_ok
     return ok
 
 

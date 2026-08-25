@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
-<title>Job Triage — Egypt Finance</title>
+<title>Job Triage — Sarah Finance</title>
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
 <meta http-equiv="Pragma" content="no-cache">
@@ -96,7 +96,9 @@
   .about-tool { grid-area: footer; }
 
   header { display: flex; align-items: baseline; gap: 16px; margin-bottom: 4px; flex-wrap: wrap; }
+  .title-block { display: flex; flex-direction: column; gap: 2px; }
   h1 { font-size: 26px; margin: 0; letter-spacing: -0.01em; }
+  .tagline { color: var(--muted); font-size: 12px; }
   .sub { color: var(--muted); font-size: 13px; }
   .grow { flex: 1; }
   .iconbtn { background: var(--pill-bg); border: 1px solid var(--line); color: var(--ink);
@@ -357,7 +359,10 @@
 <div class="wrap">
 
 <header>
-  <h1>Job Triage</h1>
+  <div class="title-block">
+    <h1>Job Triage</h1>
+    <span class="tagline">This demo is intended for Sarah along her journey</span>
+  </div>
   <span class="sub" id="snapshot-line" aria-live="polite" aria-atomic="true">California · Environmental / Toxicology · loading…</span>
   <span class="grow"></span>
   <div class="theme-toggle" id="theme-controls" aria-label="Theme">
