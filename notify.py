@@ -653,6 +653,39 @@ def send_weekly_digest(*, days: int | None = None, force: bool = False,
     return ok
 
 
+def send_announcement(message: str, *, title: str = "📢 Job_Scraper update") -> bool:
+    """One-off broadcast to every configured channel — for telling active users
+    about a tracker change (new countries, new keywords, etc.), not a job match.
+    Reuses the same send_pushover/send_telegram senders as notify_new_jobs()."""
+    pushover_token = os.environ.get("PUSHOVER_TOKEN")
+    pushover_user = os.environ.get("PUSHOVER_USER")
+    telegram_token = os.environ.get("TELEGRAM_BOT_TOKEN")
+    telegram_chat_ids = _telegram_chat_ids(os.environ.get("TELEGRAM_CHAT_ID"))
+    has_pushover = bool(pushover_token and pushover_user)
+    has_telegram = bool(telegram_token and telegram_chat_ids)
+    if not has_pushover and not has_telegram:
+        print("Announcement skipped: no channel configured "
+              "(PUSHOVER_TOKEN+PUSHOVER_USER and/or TELEGRAM_BOT_TOKEN+TELEGRAM_CHAT_ID).")
+        return False
+
+    ok = True
+    if has_pushover:
+        r = send_pushover(pushover_token, pushover_user, title=title, message=message,
+                          url=DASHBOARD_URL, url_title="Open dashboard")
+        print("✅ Pushover announcement sent." if r else "❌ Pushover announcement failed.")
+        ok = ok and r
+    if has_telegram:
+        tg_ok = True
+        for chat_id in telegram_chat_ids:
+            r = send_telegram(telegram_token, chat_id, title=title, message=message,
+                              url=DASHBOARD_URL, url_title="Open dashboard")
+            tg_ok = tg_ok and r
+        print(f"✅ Telegram announcement sent to {len(telegram_chat_ids)} chat(s)." if tg_ok
+              else "❌ Telegram announcement failed for at least one chat id.")
+        ok = ok and tg_ok
+    return ok
+
+
 def send_test() -> bool:
     """Send a test push on every configured channel (Pushover and/or Telegram).
     Returns True if every configured channel succeeded. Prints a clear
@@ -716,6 +749,10 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Pushover / Telegram notifications for Job_Scraper.")
     parser.add_argument("--test", action="store_true", help="send a test push")
     parser.add_argument("--weekly-digest", action="store_true", help="send the weekly digest")
+    parser.add_argument("--announce", type=str, default=None,
+                        help="broadcast a one-off message (e.g. feature/coverage update) to every configured channel")
+    parser.add_argument("--announce-title", type=str, default="📢 Job_Scraper update",
+                        help="title for --announce (default: '📢 Job_Scraper update')")
     parser.add_argument("--days", type=int, default=None,
                         help="lookback window for --weekly-digest (default: env or 7)")
     parser.add_argument("--force", action="store_true",
@@ -724,6 +761,8 @@ if __name__ == "__main__":
                         help="print the weekly digest without sending any notification")
     args = parser.parse_args()
 
+    if args.announce is not None:
+        raise SystemExit(0 if send_announcement(args.announce, title=args.announce_title) else 1)
     if args.weekly_digest:
         raise SystemExit(0 if send_weekly_digest(
             days=args.days, force=args.force, dry_run=args.dry_run) else 1)

@@ -1,0 +1,41 @@
+name: Send Announcement
+
+# Manually trigger from the Actions tab to broadcast a one-off message (e.g. a
+# coverage/feature update) to every configured channel — Pushover and/or
+# Telegram, using the repo's existing PUSHOVER_TOKEN/PUSHOVER_USER and/or
+# TELEGRAM_BOT_TOKEN/TELEGRAM_CHAT_ID secrets. Does not touch job data.
+on:
+  workflow_dispatch:
+    inputs:
+      message:
+        description: "Announcement text"
+        required: true
+        type: string
+      title:
+        description: "Title (optional)"
+        required: false
+        type: string
+        default: "📢 Job_Scraper update"
+
+jobs:
+  announce:
+    name: Send announcement
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Send announcement
+        run: python notify.py --announce "$ANNOUNCE_MESSAGE" --announce-title "$ANNOUNCE_TITLE"
+        env:
+          ANNOUNCE_MESSAGE: ${{ inputs.message }}
+          ANNOUNCE_TITLE: ${{ inputs.title }}
+          PUSHOVER_TOKEN: ${{ secrets.PUSHOVER_TOKEN }}
+          PUSHOVER_USER: ${{ secrets.PUSHOVER_USER }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}

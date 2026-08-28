@@ -2,7 +2,7 @@
   "_README": "ONE config file drives the whole tracker (scraper + dashboard). Edit it by hand. After editing, commit it and re-run the workflows. All matching is case-insensitive substring on the JOB TITLE unless noted.",
   "profile": {
     "title": "Sarah Finance Job Tracker",
-    "subtitle": "Egypt · Credit / Portfolio / Risk / Investment",
+    "subtitle": "Egypt · Saudi Arabia · UAE · Credit / Portfolio / Risk / Investment",
     "emoji": "💼"
   },
   "keywords": {
@@ -51,12 +51,30 @@
         "name": "Egypt",
         "location": "Egypt",
         "geoId": ""
+      },
+      {
+        "name": "Saudi Arabia",
+        "location": "Saudi Arabia",
+        "geoId": ""
+      },
+      {
+        "name": "UAE",
+        "location": "United Arab Emirates",
+        "geoId": ""
       }
     ],
     "indeed": [
       {
         "location": "Egypt",
         "country": "Egypt"
+      },
+      {
+        "location": "Saudi Arabia",
+        "country": "Saudi Arabia"
+      },
+      {
+        "location": "United Arab Emirates",
+        "country": "United Arab Emirates"
       }
     ]
   },
@@ -69,6 +87,17 @@
       "alexandria",
       "6th of october",
       "new cairo",
+      "saudi arabia",
+      "ksa",
+      "riyadh",
+      "jeddah",
+      "dammam",
+      "khobar",
+      "united arab emirates",
+      "uae",
+      "dubai",
+      "abu dhabi",
+      "sharjah",
       "remote"
     ]
   },
