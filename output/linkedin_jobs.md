@@ -1,6 +1,9 @@
 # 🔥 LinkedIn — Sarah Finance Roles
-*Last updated: 2026-08-29 02:25 UTC*
+*Last updated: 2026-08-29 03:25 UTC*
 
-**0 new role(s)** since last run · 0 total in last 1h
+**1 new role(s)** since last run · 1 total in last 1h
 
-No new roles since the last run.
+### [Financial Investment Analyst (Remote)](https://www.linkedin.com/jobs/view/4460572307/) — Hire Feed
+- 📍 **Location:** United Arab Emirates
+- 💰 **Salary:** $154 - $210/hour
+- 🕒 **Posted:** 2026-08-29
