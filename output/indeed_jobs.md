@@ -1,6 +1,9 @@
 # 🟦 Indeed — Sarah Finance Roles
-*Last updated: 2026-08-30 16:49 UTC*
+*Last updated: 2026-08-30 17:39 UTC*
 
-**0 new role(s)** since last run · 0 total in last 24h
+**1 new role(s)** since last run · 1 total in last 24h
 
-No new roles since the last run.
+### [Financial Analyst - BNPL](https://sa.indeed.com/viewjob?jk=5e4f3821e98ed162) — Rize
+- 📍 **Location:** الرياض, S01, SA
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-08-23
