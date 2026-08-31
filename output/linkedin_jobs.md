@@ -1,8 +1,9 @@
 # 🔥 LinkedIn — Sarah Finance Roles
-*Last updated: 2026-08-31 01:25 UTC*
+*Last updated: 2026-08-31 02:26 UTC*
 
 **1 new role(s)** since last run · 1 total in last 1h
 
-### [Financial Analyst - BNPL](https://www.linkedin.com/jobs/view/4459760166/) — Rize | رايز
-- 📍 **Location:** Riyadh, Riyadh, Saudi Arabia
+### [Financial Investment Analyst (Remote)](https://www.linkedin.com/jobs/view/4461041124/) — Hire Feed
+- 📍 **Location:** United Arab Emirates
+- 💰 **Salary:** $154 - $210/hour
 - 🕒 **Posted:** 2026-08-31
