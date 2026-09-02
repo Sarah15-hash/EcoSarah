@@ -1,6 +1,9 @@
 # 🟦 Indeed — Sarah Finance Roles
-*Last updated: 2026-09-02 21:50 UTC*
+*Last updated: 2026-09-02 22:43 UTC*
 
-**0 new role(s)** since last run · 4 total in last 24h
+**1 new role(s)** since last run · 5 total in last 24h
 
-No new roles since the last run.
+### [UAEN Financial Analyst](https://ae.indeed.com/viewjob?jk=674d92443c45dabd) — Al-Futtaim
+- 📍 **Location:** Dubai, DU, AE
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-09-02
