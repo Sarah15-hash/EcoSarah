@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-09-02 19:40 UTC",
+  "scraped_at": "2026-09-02 19:49 UTC",
   "total": 4,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Wipro",
@@ -76,24 +76,5 @@
       "ats": "Indeed"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Ebara Elliott Energy",
-      "title": "Financial Analyst",
-      "location": "Abu Dhabi, AZ, AE",
-      "url": "https://ae.indeed.com/viewjob?jk=ba7670ddfe47c350",
-      "direct_url": "https://elliottgroup.wd5.myworkdayjobs.com/en-US/ElliottCareers/job/Abu-Dhabi/Financial-Analyst_R3877",
-      "company_url": "https://ae.indeed.com/cmp/Ebara-Elliott-Energy",
-      "date_posted": "2026-09-02",
-      "description": "**Overview \\& Responsibilities**\n--------------------------------\n\n**PURPOSE OF THE JOB**\n\nThe principal activities are collecting, developing, analyzing, coordinating, directing, recommending, and presenting the results of the analyses to financial management, operations management and senior executives.\n\n\n**SPECIFIC JOB RESPONSIBILITES/COMPETENCIES**\n\n* Accurate, consistent and timely reporting of financial data in accordance with regional and corporate schedules\n* Process ownership of Business Unit monthly outlooks, quarterly forecast and annual plan, including preparation and consolidation of financial information\n* Develop and maintain financial models for monthly outlooks, quarterly forecasts and annual plans\n* Complete informed variance analysis of actual results and forecast projections vs defined comparators\n* Inform and advise Commercial Financial Manager of all significant financial matters as they arise\n* Analyze to understand actual expenses and forecasts, trends and have input into any spend management actions required\n* Report information so that action may be taken to enhance operating results\n* Calculation of annual absorption \\& burden rates\n* Assist in the preparation of Capital plans and forecasts\n* Administration of capital spend requests\n* Preparation of the financial models to support capital expenditure\n* Oversee capital spending reviews to review financial performance compared to assumptions included in the justification\n* Other analysis as required on an adhoc basis\n\n**BACKGROUND AND EXPERIENCE**\n\n* Professional accounting qualification (CIMA, ACCA or equivalent)\n* Experience of management accounting practices\n* Must be able to demonstrate strong forecasting and planning skills covering the full P\\&L\n* Strong analytical skills and excel knowledge\n* The ability to work to strict deadlines with minimal supervision\n* Strong interpersonal, communication and presentation skills\n* The ability to explain complex financial information in a clear way\n* Previous experience with percentage of completion revenue recognition and absorption costing are preferred\n* 4 \\- 6 years of relevant working experience in a multinational work environment.\n\n**Base Location \\& Work Schedule**\n\nThis is a full time permanent position based in KEZAD Free Zone in Abu Dhabi. Hybrid work schedule \\- 3 days office, 2 days WFH (Monday \\- Friday).\n\n\n**The world turns to Ebara Elliott Energy.**\n\nCustomers throughout the world choose Ebara Elliott Energy for the design, manufacture and service of their critical rotating equipment. EEE’s global service network routinely installs, overhauls, repairs, upgrades and rerates machines from any manufacturer. Customers everywhere turn to EEE for precision engineering, extraordinary reliability and unparalleled service.\n\n\nTo learn more about our Job Applicant Privacy Notice, please click here .",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "",
-      "job_type": "fulltime",
-      "is_remote": true,
-      "work_arrangement": "Remote in-state eligible",
-      "emails": "",
-      "ats": "Indeed"
-    }
-  ]
+  "new_jobs": []
 }
