@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-09-02 22:43 UTC",
+  "scraped_at": "2026-09-02 22:50 UTC",
   "total": 5,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Wipro",
@@ -94,24 +94,5 @@
       "ats": "Indeed"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Al-Futtaim",
-      "title": "UAEN Financial Analyst",
-      "location": "Dubai, DU, AE",
-      "url": "https://ae.indeed.com/viewjob?jk=674d92443c45dabd",
-      "direct_url": "https://www.afuturewithus.com/job/Dubai-UAEN-Financial-Analyst-Retail-Corporate/1432778633/",
-      "company_url": "https://ae.indeed.com/cmp/Al--futtaim",
-      "date_posted": "2026-09-02",
-      "description": "**Job Requisition ID:** 180681\n\n\nEstablished in the 1930s as a trading business, Al\\-Futtaim Group today is one of the most diversified and progressive, privately held regional businesses headquartered in Dubai, United Arab Emirates. Structured into five operating divisions; automotive, financial services, real estate, retail and healthcare; employing more than 35,000 employees across more than 20 countries in the Middle East, Asia and Africa, Al\\-Futtaim Group partners with over 200 of the world's most admired and innovative brands. Al\\-Futtaim Group’s entrepreneurship and relentless customer focus enables the organization to continue to grow and expand; responding to the changing needs of our customers within the societies in which we operate.\n\n\nBy upholding our values of respect, excellence, collaboration and integrity; Al\\-Futtaim Group continues to enrich the lives and aspirations of our customers each and every day\n\n  \n\n**Overview Of The Role:**  \n\nThe Financial Analyst will provide comprehensive support to the BP\\&A Team in strategic planning, budgeting, forecasting, and financial analysis. The role involves consolidating and circulating financial reports, assisting with automation projects, and performing administrative duties to support the team's objectives. Success in this role requires timely and accurate completion of responsibilities, proactive business follow\\-ups, and effective interaction with team members and stakeholders.\n\n  \n\n**What You Will Do:**\n\n\n#### **Planning, Budgeting \\& Forecasting**\n\n\n* Assist the BP\\&A Team to manage the Strategic Plan, Budget, and Forecasts.\n* Ensure accurate and timely completion of planning responsibilities.\n\n  \n\n\n#### **Reporting, Financial Analysis \\& Contingency Planning**\n\n\n* Assist the BP\\&A Team in preparing, following up, and circulating regular and ad\\-hoc reports and financial analyses.\n* Ensure accurate and timely completion of reporting responsibilities.\n\n  \n\n\n#### **Automation / Projects**\n\n\n* Support the BP\\&A Team in following up, preparing, and circulating automation and project reports and analyses.\n* Ensure accurate and timely completion of automation/project responsibilities.\n\n  \n\n\n#### **Administrative Support**\n\n\n* Provide administrative support to BP\\&A Head and Team.\n* Ensure timely provision of required support.\n\n  \n\n  \n\n**Required Skills To Be Successful:**\n\n\n* Strategic planning and budgeting expertise\n* Proficiency in financial analysis and reporting\n* Experience with ERP systems like SAP\n* Strong interpersonal and communication skills\n\n  \n\n  \n\n**What Qualifies You For The Role:**\n\n\n* Commerce graduate with specialization in Finance/Systems.\n* 4 years of experience in budgeting, financial/management reporting, preferably in the retail sector in the Middle East.\n* Proficiency in accounting software packages, particularly ERP systems like SAP.\n* Excellent interpersonal, analytical, planning, and organizing skills with strong business acumen.\n\n **About Al\\-Futtaim Retail**\n\n\nAl\\-Futtaim Retail has established itself as one of the leaders in Retail across the Middle East, Africa \\& Asia over the past 30 years. We have developed partnerships with some of the biggest and most respected Brands in the world including IKEA, ACE and Toys R Us in the Middle East and the Inditex Group of Brands (Zara, Mango, Bershka and P\\&B) across Asia. We are also one of the largest Global partners of Marks and Spencer’s in both regions with over 75 stores offering both fashion \\& food options.  \n\n  \n\nMost recently we have been responsible for bringing brands to the Middle East for the first time with the exciting launches of Watsons and B\\&Q and we aim to continue to be agile and adaptive to our markets with new launches and further development. For this to be possible we aim to recruit the best talent from all backgrounds who will continue to challenge and develop our diverse workforce which includes over 100 nationalities across 12 countries. Join us today and make a difference…",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "",
-      "job_type": "",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed"
-    }
-  ]
+  "new_jobs": []
 }
