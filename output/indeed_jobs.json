@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-09-03 17:52 UTC",
-  "total": 4,
-  "new_count": 1,
+  "scraped_at": "2026-09-03 18:47 UTC",
+  "total": 3,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Savills",
@@ -56,44 +56,7 @@
       "work_arrangement": "On-site",
       "emails": "",
       "ats": "Indeed"
-    },
-    {
-      "company": "Ebara Elliott Energy",
-      "title": "Financial Analyst",
-      "location": "Abu Dhabi, AZ, AE",
-      "url": "https://ae.indeed.com/viewjob?jk=ba7670ddfe47c350",
-      "direct_url": "https://elliottgroup.wd5.myworkdayjobs.com/en-US/ElliottCareers/job/Abu-Dhabi/Financial-Analyst_R3877",
-      "company_url": "https://ae.indeed.com/cmp/Ebara-Elliott-Energy",
-      "date_posted": "2026-09-02",
-      "description": "**Overview \\& Responsibilities**\n--------------------------------\n\n**PURPOSE OF THE JOB**\n\nThe principal activities are collecting, developing, analyzing, coordinating, directing, recommending, and presenting the results of the analyses to financial management, operations management and senior executives.\n\n\n**SPECIFIC JOB RESPONSIBILITES/COMPETENCIES**\n\n* Accurate, consistent and timely reporting of financial data in accordance with regional and corporate schedules\n* Process ownership of Business Unit monthly outlooks, quarterly forecast and annual plan, including preparation and consolidation of financial information\n* Develop and maintain financial models for monthly outlooks, quarterly forecasts and annual plans\n* Complete informed variance analysis of actual results and forecast projections vs defined comparators\n* Inform and advise Commercial Financial Manager of all significant financial matters as they arise\n* Analyze to understand actual expenses and forecasts, trends and have input into any spend management actions required\n* Report information so that action may be taken to enhance operating results\n* Calculation of annual absorption \\& burden rates\n* Assist in the preparation of Capital plans and forecasts\n* Administration of capital spend requests\n* Preparation of the financial models to support capital expenditure\n* Oversee capital spending reviews to review financial performance compared to assumptions included in the justification\n* Other analysis as required on an adhoc basis\n\n**BACKGROUND AND EXPERIENCE**\n\n* Professional accounting qualification (CIMA, ACCA or equivalent)\n* Experience of management accounting practices\n* Must be able to demonstrate strong forecasting and planning skills covering the full P\\&L\n* Strong analytical skills and excel knowledge\n* The ability to work to strict deadlines with minimal supervision\n* Strong interpersonal, communication and presentation skills\n* The ability to explain complex financial information in a clear way\n* Previous experience with percentage of completion revenue recognition and absorption costing are preferred\n* 4 \\- 6 years of relevant working experience in a multinational work environment.\n\n**Base Location \\& Work Schedule**\n\nThis is a full time permanent position based in KEZAD Free Zone in Abu Dhabi. Hybrid work schedule \\- 3 days office, 2 days WFH (Monday \\- Friday).\n\n\n**The world turns to Ebara Elliott Energy.**\n\nCustomers throughout the world choose Ebara Elliott Energy for the design, manufacture and service of their critical rotating equipment. EEE’s global service network routinely installs, overhauls, repairs, upgrades and rerates machines from any manufacturer. Customers everywhere turn to EEE for precision engineering, extraordinary reliability and unparalleled service.\n\n\nTo learn more about our Job Applicant Privacy Notice, please click here .",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "",
-      "job_type": "fulltime",
-      "is_remote": true,
-      "work_arrangement": "Remote in-state eligible",
-      "emails": "",
-      "ats": "Indeed"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Savills",
-      "title": "Junior Financial Analyst",
-      "location": "الجيزة, GZ, EG",
-      "url": "https://eg.indeed.com/viewjob?jk=1c500fd1559b6747",
-      "direct_url": "https://careers.savills.me/jobs/8303619-junior-financial-analyst",
-      "company_url": "https://eg.indeed.com/cmp/Savills",
-      "date_posted": "2026-09-01",
-      "description": "The Financial Analyst will provide essential financial and analytical support to the team, ensuring accurate financial data, forecasts, and strategic insights to support decision\\-making. The role involves analyzing property performance, conducting financial modeling, and reporting on financial results to guide the organization’s investment and business strategies.\n\n\nSavills is a leading global real estate services company providing expertise across property advisory, investment management, valuation, property management, and consultancy. With a strong international presence, Savills works with investors, developers, landlords, and occupiers to deliver strategic real estate solutions across a wide range of markets and property sectors.\n\n**Key Responsibilities**\n\n**1\\. Financial Analysis \\& Modeling**\n\n* Develop and maintain detailed financial models to assess property investments, acquisitions, and projects.\n* Conduct sensitivity analysis, scenario analysis, and cash flow forecasting to evaluate the financial viability of projects.\n* Perform valuation analysis using various methods, including discounted cash flow (DCF), capitalization rates, and comparable sales.\n\n**2\\. Budgeting \\& Forecasting**\n\n* Assist in preparing annual budgets and financial forecasts.\n* Monitor actual performance against budgeted financial targets, identify variances, and provide actionable insights.\n\n**3\\. Reporting \\& Presentations**\n\n* Prepare monthly, quarterly, and annual financial reports on company and property performance.\n* Present financial insights and reports to senior management and key stakeholders.\n\n**4\\. Cash Flow \\& Asset Management**\n\n* Analyze cash flows and ensure accurate tracking of income and expenses.\n* Collaborate with managers to assess financial and asset performance and provide recommendations for cost optimization and revenue enhancement.\n\n**5\\. Collaboration**\n\n* Work closely with cross\\-functional teams to support financial analysis, reporting, and business objectives.\n\n**Skills, Knowledge \\& Experience**\n\n* **Education:** Bachelor’s degree in Finance, Accounting, Economics, or a related field. A Master’s degree or CFA designation is a plus.\n* **Experience:** 2–4 years of experience in real estate finance, investment banking, or financial analysis.\n* **Technical Skills:** Strong proficiency in Microsoft Excel, including financial modeling and advanced functions, as well as Power BI and PowerPoint.\n* Familiarity with ERP systems such as D365 or Infor is preferred.\n* Knowledge of real estate market trends, valuation techniques, and financial reporting.\n* Excellent communication skills, with the ability to prepare and present financial reports effectively.\n* Strong attention to detail, analytical thinking, and problem\\-solving abilities.\n* Fluency in English is required.\n\n**Key Attributes**\n\n* Ability to work independently and effectively as part of a team.\n* Strong organizational and time management skills.\n* High level of attention to detail and accuracy in financial analysis.",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "",
-      "job_type": "",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed"
-    }
-  ]
+  "new_jobs": []
 }
