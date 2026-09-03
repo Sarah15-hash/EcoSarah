@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-09-03 15:44 UTC",
+  "scraped_at": "2026-09-03 15:51 UTC",
   "total": 3,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Forex Beginner Club",
@@ -58,24 +58,5 @@
       "ats": "Indeed"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Forex Beginner Club",
-      "title": "Prop Firm Risk Analyst",
-      "location": "Dubai, DU, AE",
-      "url": "https://ae.indeed.com/viewjob?jk=3b44b0b80af46900",
-      "direct_url": "http://ae.indeed.com/job/prop-firm-risk-analyst-3b44b0b80af46900",
-      "company_url": "https://ae.indeed.com/cmp/Forex-Beginner-Club",
-      "date_posted": "2026-09-03",
-      "description": "**Job Overview**\n\nWe are looking for a highly analytical and detail\\-oriented Prop Firm Risk Analyst to join our team. The ideal candidate will be responsible for monitoring trader activity, identifying potential risks, analyzing trading performance, and ensuring compliance with the company's risk management policies and trading rules.\n\nThe Risk Analyst will play a key role in protecting the company's capital and maintaining a sustainable trading environment by monitoring trading behaviour, risk exposure, drawdowns, and potential violations of company rules.\n\nCandidates with knowledge and experience in Forex trading, proprietary trading firms, financial markets, and risk management will be preferred.\n\n**Key Responsibilities**\n\n* Monitor and analyze traders' activities and trading behaviour on a daily basis.\n* Identify unusual, high\\-risk, or potentially abusive trading patterns.\n* Monitor risk exposure across different trading accounts and instruments.\n* Review traders' drawdown levels, daily losses, maximum losses, and overall account performance.\n* Ensure traders are complying with the company's trading rules and risk management policies.\n* Identify potential violations of risk limits and escalate them to the relevant management team.\n* Analyze trading strategies and patterns to identify excessive risk\\-taking.\n* Monitor position sizes, leverage usage, trading frequency, and overall market exposure.\n* Review profitable and high\\-performing trading accounts for potential risk concerns or rule violations.\n* Investigate suspicious trading activity, including potential manipulation, arbitrage abuse, or prohibited trading practices, according to company policies.\n* Prepare daily, weekly, and monthly risk reports.\n* Provide insights and recommendations to improve the company's risk management framework.\n* Work closely with the Operations, Compliance, Trading, and Management teams.\n* Monitor market conditions and major economic events that may increase trading risk.\n* Assist in developing and improving risk policies, trading rules, and internal procedures.\n* Maintain accurate records of risk assessments, trader reviews, and incidents.\n* Support the team in making data\\-driven decisions regarding trader accounts and overall company risk exposure.\n\n**Required Skills \\& Qualifications**\n\n* Previous experience in Forex, CFD, Proprietary Trading (Prop Firm), Brokerage, Financial Markets, or Trading Risk Management is preferred.\n* Strong knowledge of Forex and financial markets.\n* Understanding of proprietary trading firm business models.\n* Good understanding of trading concepts, including:\n* Leverage\n* Margin\n* Drawdown\n* Stop Loss\n* Risk\\-to\\-Reward Ratio\n* Position Sizing\n* Daily Loss Limits\n* Maximum Drawdown\n* Trading Exposure\n* Strong analytical and problem\\-solving skills.\n* Ability to analyze trading data and identify patterns.\n* Good knowledge of Microsoft Excel and reporting tools.\n* Experience with trading platforms and back\\-office systems will be an advantage.\n* Strong attention to detail and accuracy.\n* Ability to work independently and manage multiple tasks.\n* Good communication and reporting skills.\n\n**Preferred Qualifications**\n\n* Bachelor's degree in Finance, Economics, Business, Mathematics, Statistics, or a related field.\n* Experience working with a Forex broker or Prop Trading Firm.\n* Experience in Trading Risk Management or Financial Risk Analysis.\n* Knowledge of MetaTrader 4 (MT4\\), MetaTrader 5 (MT5\\), or other trading platforms is an advantage.\n* Knowledge of CRM, trading dashboards, and reporting systems is preferred.\n\n**Employment Details**\n\n**Job Type:** Full\\-Time  \n**Department:** Risk Management  \n**Industry:** Forex / Financial Services / Proprietary Trading  \n**Location:** Dubai, UAE  \n**Working Hours:** As per company requirements\n\nPay: AED4,000\\.00 \\- AED8,000\\.00 per month\n\nWork Location: In person",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "",
-      "job_type": "",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed"
-    }
-  ]
+  "new_jobs": []
 }
