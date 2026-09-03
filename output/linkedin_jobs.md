@@ -1,6 +1,8 @@
 # 🔥 LinkedIn — Sarah Finance Roles
-*Last updated: 2026-09-03 15:33 UTC*
+*Last updated: 2026-09-03 16:32 UTC*
 
-**0 new role(s)** since last run · 0 total in last 1h
+**1 new role(s)** since last run · 1 total in last 1h
 
-No new roles since the last run.
+### [Junior Financial Analyst](https://www.linkedin.com/jobs/view/4461685001/) — Savills Middle East
+- 📍 **Location:** Giza, Al Jizah, Egypt
+- 🕒 **Posted:** 2026-09-03
