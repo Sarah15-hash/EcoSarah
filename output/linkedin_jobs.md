@@ -1,6 +1,8 @@
 # 🔥 LinkedIn — Sarah Finance Roles
-*Last updated: 2026-09-05 19:27 UTC*
+*Last updated: 2026-09-05 20:28 UTC*
 
-**0 new role(s)** since last run · 0 total in last 1h
+**1 new role(s)** since last run · 1 total in last 1h
 
-No new roles since the last run.
+### [Junior Financial Analyst](https://www.linkedin.com/jobs/view/4463782509/) — EgyBell
+- 📍 **Location:** New Cairo, Cairo, Egypt
+- 🕒 **Posted:** 2026-09-05
