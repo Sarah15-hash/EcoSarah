@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-09-05 19:41 UTC",
+  "scraped_at": "2026-09-05 19:49 UTC",
   "total": 1,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Al Mazroui",
@@ -22,24 +22,5 @@
       "ats": "Indeed"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Al Mazroui",
-      "title": "Financial Analyst – FP&A & AI",
-      "location": "Dubai, DU, AE",
-      "url": "https://ae.indeed.com/viewjob?jk=f009fae8115d77da",
-      "direct_url": "http://ae.indeed.com/job/financial-analyst-fp-ai-f009fae8115d77da",
-      "company_url": "https://ae.indeed.com/cmp/Al-Mazroui-1",
-      "date_posted": "2026-09-05",
-      "description": "**Key Responsibilities:**\n\n* Analyze financial data and business performance, including budgets, forecasts, and variances.\n* Prepare financial reports, forecasts, budgets, and financial models.\n* Provide clear financial insights to support business and strategic decisions.\n* Identify opportunities to use AI and technology to improve financial analysis and finance processes.\n\n**Requirements:**\n\n* Bachelor’s degree in Finance, Accounting, Economics, or a related field.\n* Experience in financial analysis, FP\\&A, financial modelling, or a similar role.\n* Strong analytical, and problem\\-solving skills, with attention to detail.\n* Good understanding of AI tools and their applications in finance, with the ability to translate financial data into clear business insights.\n\nApplication Question(s):\n\n* Your current location?\n* What is your highest level of education and field of study?\n* What specific experience do you have in financial analysis, FP\\&A, or financial modelling?\n* Please mention the specific AI tools you used in your work experience and briefly explain how you used them and what they helped you achieve.\n* Your expected salary?\n\nWork Location: In person",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "",
-      "job_type": "fulltime",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed"
-    }
-  ]
+  "new_jobs": []
 }
