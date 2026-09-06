@@ -1,8 +1,6 @@
 # 🔥 LinkedIn — Sarah Finance Roles
-*Last updated: 2026-09-06 01:28 UTC*
+*Last updated: 2026-09-06 02:30 UTC*
 
-**1 new role(s)** since last run · 1 total in last 1h
+**0 new role(s)** since last run · 0 total in last 1h
 
-### [Financial Analyst SA](https://www.linkedin.com/jobs/view/4462666653/) — Core Code io
-- 📍 **Location:** Riyadh, Riyadh, Saudi Arabia
-- 🕒 **Posted:** 2026-09-06
+No new roles since the last run.
