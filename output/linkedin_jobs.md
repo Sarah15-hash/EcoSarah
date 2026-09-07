@@ -1,6 +1,8 @@
 # 🔥 LinkedIn — Sarah Finance Roles
-*Last updated: 2026-09-07 15:31 UTC*
+*Last updated: 2026-09-07 16:32 UTC*
 
-**0 new role(s)** since last run · 0 total in last 1h
+**1 new role(s)** since last run · 1 total in last 1h
 
-No new roles since the last run.
+### [VP Portfolio Manager / Fund Manager  – Fixed Income](https://www.linkedin.com/jobs/view/4462227554/) — Swisslinx Middle East
+- 📍 **Location:** Riyadh, Saudi Arabia
+- 🕒 **Posted:** 2026-09-07
