@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-09-09 16:46 UTC",
+  "scraped_at": "2026-09-09 16:52 UTC",
   "total": 4,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "The Legacy Homes Real Estate L.L.C",
@@ -76,24 +76,5 @@
       "ats": "Indeed"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "The Legacy Homes Real Estate L.L.C",
-      "title": "Portfolio Manager - Real Estate Sales",
-      "location": "Dubai, DU, AE",
-      "url": "https://ae.indeed.com/viewjob?jk=3173c2f948290ca7",
-      "direct_url": "http://ae.indeed.com/job/portfolio-manager-real-estate-sales-3173c2f948290ca7",
-      "company_url": "https://ae.indeed.com/cmp/The-Legacy-Homes-Real-Estate-L.l.c",
-      "date_posted": "2026-09-09",
-      "description": "**Real Estate Agents – Dubai** \n\n**The Legacy Homes Real Estate Brokerage LLC** is expanding its Dubai team and looking for **driven and ambitious Off\\-Plan Real Estate Agents** to join our growing team.\n\nRequirements\n\n* **Minimum 1 year of Dubai real estate experience preferred**\n* Strong communication, negotiation, and client\\-handling skills\n* Sales and closing mindset\n* Self\\-motivated, target\\-oriented, and professional\n* Good knowledge of the Dubai property market\n\nWhat We Offer\n\n* Attractive commission structure\n* Quality lead support\n* Strong marketing and branding support\n* Access to leading Dubai off\\-plan projects\n* Career growth opportunities\n\n**Location:** The Legacy Homes Dubai Office  \n806, Al Shafar Tower 1, Barsha Heights, TECOM, Dubai\n\n**Apply Now:**  \nWhatsApp: **\\+971 58 292 5858**  \nEmail: **hr@legacyhomes.ae**\n\nJob Type: Full\\-time\n\nPay: From AED4,000\\.00 per month\n\nWork Location: In person",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "",
-      "job_type": "fulltime",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "hr@legacyhomes.ae",
-      "ats": "Indeed"
-    }
-  ]
+  "new_jobs": []
 }
