@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-09-09 18:46 UTC",
+  "scraped_at": "2026-09-09 18:52 UTC",
   "total": 7,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "NICE ONE",
@@ -130,24 +130,5 @@
       "ats": "Indeed"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "NICE ONE",
-      "title": "Financial Analyst",
-      "location": "الرياض, S01, SA",
-      "url": "https://sa.indeed.com/viewjob?jk=004df2a1fd6b0077",
-      "direct_url": "https://careers.niceone.com/jobs/8351851-financial-analyst",
-      "company_url": "https://sa.indeed.com/cmp/Nice-One",
-      "date_posted": "2026-09-09",
-      "description": "#### **Job Purpose**\n\nProvide timely, accurate, and forward\\-looking financial analysis to the CFO and senior management, supporting performance management, strategic decision\\-making, resource allocation, and listed\\-company reporting.\n\n### **Key Responsibilities:**\n\n* Lead the annual budgeting, business planning, and rolling forecast process.\n* Prepare monthly, quarterly, and annual financial forecasts and performance outlooks.\n* Analyze actual results against budgets, forecasts, and prior periods, providing clear variance explanations.\n* Prepare financial reporting packs for management, the CFO, CEO, Board of Directors, and Audit Committee.\n* Develop and monitor key financial and operational KPIs and performance dashboards.\n* Analyze revenue, gross margin, operating expenses, EBITDA, net profit, and cash flow performance.\n* Conduct profitability analysis by business unit, channel, product, brand, customer, and store.\n* Support quarterly and annual reporting for listed companies, including CMA, Tadawul, and investor relations requirements.\n* Prepare financial models, scenario and sensitivity analyses, and strategic business cases.\n* Evaluate investments, CAPEX, new projects, and expansion opportunities using ROI, IRR, NPV, and payback analysis.\n* Monitor working capital, cash flow, liquidity, inventory, receivables, and payables.\n* Partner with business functions to control costs, improve margins, and identify profitability opportunities.\n* Monitor departmental spending and ensure compliance with approved budgets and financial targets.\n* Support external audits, regulatory reviews, and financial analyses required by management or regulatory authorities.\n* Drive automation and continuous improvement of FP\\&A reporting, planning, dashboards, and financial systems.\n\n### **Required Qualifications**\n\n* Bachelor’s degree in Finance, Accounting, or a related field.\n* Professional qualification such as **CMA, CPA, ACCA, CFA, or SOCPA** is preferred.\n* **7–10 years of relevant experience** in FP\\&A, budgeting, forecasting, or financial analysis.\n* Experience in a **listed company or large corporate group** is preferred.\n* Strong knowledge of **financial modeling, IFRS, ERP systems, Excel, and Power BI**.\n* Strong communication, analytical, and presentation skills.",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "",
-      "job_type": "",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed"
-    }
-  ]
+  "new_jobs": []
 }
