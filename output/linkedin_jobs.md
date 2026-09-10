@@ -1,6 +1,8 @@
 # 🔥 LinkedIn — Sarah Finance Roles
-*Last updated: 2026-09-10 03:32 UTC*
+*Last updated: 2026-09-10 15:32 UTC*
 
-**0 new role(s)** since last run · 0 total in last 1h
+**1 new role(s)** since last run · 1 total in last 1h
 
-No new roles since the last run.
+### [Senior Portfolio Manager - Alternative Assets](https://www.linkedin.com/jobs/view/4464512251/) — Emirates NBD
+- 📍 **Location:** United Arab Emirates
+- 🕒 **Posted:** 2026-09-10
