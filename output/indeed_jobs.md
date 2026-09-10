@@ -1,6 +1,10 @@
 # 🟦 Indeed — Sarah Finance Roles
-*Last updated: 2026-09-10 03:53 UTC*
+*Last updated: 2026-09-10 15:45 UTC*
 
-**0 new role(s)** since last run · 9 total in last 24h
+**1 new role(s)** since last run · 6 total in last 24h
 
-No new roles since the last run.
+### [Senior Portfolio Manager - Alternative Assets](https://ae.indeed.com/viewjob?jk=2cd6da38bbf0437a) — Emirates NBD
+- 📍 **Location:** AE
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-10
