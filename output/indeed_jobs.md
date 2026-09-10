@@ -1,6 +1,10 @@
 # 🟦 Indeed — Sarah Finance Roles
-*Last updated: 2026-09-10 23:41 UTC*
+*Last updated: 2026-09-10 23:49 UTC*
 
-**0 new role(s)** since last run · 0 total in last 24h
+**1 new role(s)** since last run · 1 total in last 24h
 
-No new roles since the last run.
+### [ETIC, Portfolio Manager - Senior Associate](https://eg.indeed.com/viewjob?jk=f89562e2113c2f60) — PwC
+- 📍 **Location:** القاهرة, C, EG
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-10
