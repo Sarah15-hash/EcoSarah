@@ -1,8 +1,6 @@
 # 🔥 LinkedIn — Sarah Finance Roles
-*Last updated: 2026-09-10 17:29 UTC*
+*Last updated: 2026-09-10 18:33 UTC*
 
-**1 new role(s)** since last run · 1 total in last 1h
+**0 new role(s)** since last run · 0 total in last 1h
 
-### [UAEN1 Financial Analyst | Retail | Corporate](https://www.linkedin.com/jobs/view/4465813786/) — Al-Futtaim
-- 📍 **Location:** Dubai, Dubai, United Arab Emirates
-- 🕒 **Posted:** 2026-09-10
+No new roles since the last run.
