@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-09-11 15:44 UTC",
+  "scraped_at": "2026-09-11 15:52 UTC",
   "total": 1,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Villeroy & Boch",
@@ -22,24 +22,5 @@
       "ats": "Indeed"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Villeroy & Boch",
-      "title": "Financial Analyst",
-      "location": "القاهرة, C, EG",
-      "url": "https://eg.indeed.com/viewjob?jk=aaaa0835a7ea8ca0",
-      "direct_url": "https://villeroyboch.wd3.myworkdayjobs.com/en-US/careers/job/Cairo/Financial-Analyst_JR_9590",
-      "company_url": "https://eg.indeed.com/cmp/Villeroy-&-Boch",
-      "date_posted": "2026-09-10",
-      "description": "**Shape \\& Create \\- And make it happen!**\n==========================================\n\n**The Villeroy \\& Boch Group with its Ideal Standard brand is one of the world's leading manufacturers in the ceramics and lifestyle sector. With our innovative and stylish products from the Dining \\& Lifestyle and Bath \\& Wellness segments, we have been creating moments and rooms to feel good in since 1748\\. Our success is based on the passion, design expertise and innovative strength of our more than 13,000 employees in 42 countries.**\n---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n\n**Want to become part of us? \\#shapeandcreate**\n-----------------------------------------------\n\n\nYour Role\n\n* Consolidate, analyze, and report financial data, ensuring alignment with company objectives.\n* Support monthly financial reporting, analysis, forecasting, and the annual budgeting process.\n* Develop financial models, conduct benchmarking, and perform process analysis.\n* Prepare monthly statements, investigate variances, and track financial performance against forecasts.\n* Reconcile transactions, correct discrepancies, and assist with month\\- and year\\-end accounting close.\n* Analyze business unit performance, identify key variance drivers, and monitor financial metrics.\n* Develop rolling forecasts (revenues, expenses, P\\&L, balance sheet, cash flow) and conduct business studies.\n* Coordinate with external auditors for year\\-end closing.\n* Performing other duties as assigned\n\n\nYour Profile**:**\n\n* Bachelor’s degree in accounting/finance.\n* The ability to communicate in English fluently.\n* 3\\+ years of experience in Finance (Financial Analysis). (Minimum 2 years of experience in Finance, including expertise in accounting and a strong focus on Financial Analysis)\n* Exposure to financial analysis, operations analysis, financial reporting, and internal controls is a significant asset.\n* Financial Skills, Forecasting, Financial Diagnosis, Analyzing Information, Financial Planning and Strategy, corporate finance, and information.\n* Big 4 Audit firm experience (PWC, Deloitte, E\\&Y, KPMG) is an asset\n* Proficient in spreadsheets, databases, MS Office, and financial applications.\n* Hands on experience with statistical analysis and statistical packages\n* Outstanding presentation, reporting and communications skills\n* SAP user is preferred.\n* Excellent interpersonal and communication skills.\n* Experienced team player.\n* Ability to handle multiple priorities and manage deadlines.\n* Ability to work well under pressure.\n* Demonstrated strong project management skills.\n* Attention to detail and accuracy.\n\n**Think outside the box with us! \\#shapeandcreate**\n===================================================",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "",
-      "job_type": "fulltime",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed"
-    }
-  ]
+  "new_jobs": []
 }
