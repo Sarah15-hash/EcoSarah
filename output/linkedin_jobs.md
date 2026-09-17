@@ -1,6 +1,8 @@
 # 🔥 LinkedIn — Sarah Finance Roles
-*Last updated: 2026-09-17 19:29 UTC*
+*Last updated: 2026-09-17 20:31 UTC*
 
-**0 new role(s)** since last run · 1 total in last 1h
+**1 new role(s)** since last run · 1 total in last 1h
 
-No new roles since the last run.
+### [Senior Portfolio Manager](https://www.linkedin.com/jobs/view/4467808075/) — Confidential Careers
+- 📍 **Location:** Riyadh, Saudi Arabia
+- 🕒 **Posted:** 2026-09-17
