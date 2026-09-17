@@ -1,6 +1,8 @@
 # 🔥 LinkedIn — Sarah Finance Roles
-*Last updated: 2026-09-17 17:29 UTC*
+*Last updated: 2026-09-17 18:35 UTC*
 
-**0 new role(s)** since last run · 0 total in last 1h
+**1 new role(s)** since last run · 1 total in last 1h
 
-No new roles since the last run.
+### [Investment Analyst](https://www.linkedin.com/jobs/view/4440563467/) — ASMO
+- 📍 **Location:** Saudi Arabia
+- 🕒 **Posted:** 2026-09-17
