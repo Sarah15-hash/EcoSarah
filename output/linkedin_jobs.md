@@ -1,6 +1,8 @@
 # 🔥 LinkedIn — Sarah Finance Roles
-*Last updated: 2026-09-18 03:31 UTC*
+*Last updated: 2026-09-18 15:31 UTC*
 
-**0 new role(s)** since last run · 0 total in last 1h
+**1 new role(s)** since last run · 1 total in last 1h
 
-No new roles since the last run.
+### [Senior Delivery Manager cum Portfolio Manager – (SAP SuccessFactors)](https://www.linkedin.com/jobs/view/4438877195/) — HTC Global Services
+- 📍 **Location:** Abu Dhabi Emirate, United Arab Emirates
+- 🕒 **Posted:** 2026-09-18
