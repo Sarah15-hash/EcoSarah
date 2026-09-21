@@ -1,6 +1,8 @@
 # 🔥 LinkedIn — Sarah Finance Roles
-*Last updated: 2026-09-21 03:33 UTC*
+*Last updated: 2026-09-21 15:30 UTC*
 
-**0 new role(s)** since last run · 0 total in last 1h
+**1 new role(s)** since last run · 1 total in last 1h
 
-No new roles since the last run.
+### [Investment Advisor / Portfolio Manager – Structured Products](https://www.linkedin.com/jobs/view/4467607236/) — Swisslinx Middle East
+- 📍 **Location:** Dubai, United Arab Emirates
+- 🕒 **Posted:** 2026-09-21
