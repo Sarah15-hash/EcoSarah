@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-09-21 18:48 UTC",
+  "scraped_at": "2026-09-21 18:54 UTC",
   "total": 3,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Visa",
@@ -58,24 +58,5 @@
       "ats": "Indeed"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Amazon.com",
-      "title": "MEATR FP&A Senior Financial Analyst, MEATR Stores FP&A",
-      "location": "Dubai, DU, AE",
-      "url": "https://ae.indeed.com/viewjob?jk=52e761a6331d59bd",
-      "direct_url": "https://www.amazon.jobs/jobs/10554745/meatr-fpa-senior-financial-analyst-meatr-stores-fpa?cmpid=DA_INAD200785B",
-      "company_url": "https://ae.indeed.com/cmp/Amazon.com",
-      "date_posted": "2026-09-11",
-      "description": "**DESCRIPTION**\n---------------\n\n\nAt Amazon, we're working to be the most customer\\-centric company on earth. To get there, we need exceptionally talented, bright, and driven people. If you'd like to help us build the place to find and buy anything online in MENA/Türkiye/South Africa, this is your chance to pioneer.\n  \n\n  \n\nFinance is all about the numbers…unless you work at Amazon; it’s knowing the numbers and so much more. Enthusiasm and energy help us deliver new ideas, and solutions. Do you view problems as treasures, and are you willing to dive deep to develop those solutions and deliver results? Will you seek to challenge the status quo, and accept that your ideas and mechanisms may be tested daily?\n  \n\n  \n\nAt Amazon, we move with purpose and speed, and this requires we work with a dynamic network of Retail, Operations, Marketing and Tech partners. Our analysts work across teams, help others understand financial decisions and are trusted business advisors. They employ every facet of data and communication to ensure our partners and our leaders have the most up to date and reliable information to help them make the best possible decision. Come teach us a few things, and we’ll teach you a few things as we navigate Earth's most customer\\-centric company!  \n\n  \n\n  \n\n  \n\nKey job responsibilities  \n\n* Be the go\\-to FP\\&A contact for peers in MENA, Türkiye and South Africa finance and business teams.\n* Owning financial bridging and story\\-telling during monthly and quarterly close cycles, validating financial and operational results of the Consumer business.\n* Ensuring a high level of financial controls are followed, maintaining data integrity.\n* Lead month\\-end close activities s with holistic ownership across P\\&L and balance sheet.\n* Own ad\\-hoc responses to questions from leadership in finance and business on intra month performance and around one\\-off review preparation.\n* Drive controllership of MENA/Türkiye/South Africa Stores financials, understanding actuals, challenging variances and tracking action plans to bring financial results back to plan when necessary and possible.\n* Active business partner driving actuals variances analysis along with other finance teams, such as Stores Finance, Operations, Payments, Customer Service, , Prime and Marketing.\n* Drive an AI\\-based roadmap to facilitate automation and process simplification for all tools and mechanism facilitating weekly/monthly/quarterly reporting cycles, leveraging BI capabilities within own and partner teams.\n* Provide accurate and insightful financial reports.\n* Find opportunities to use global standards and transfer repetitive tasks to global teams.\n* Develop financial skills across the organization.\n**BASIC QUALIFICATIONS**\n------------------------\n\n* 3\\+ years of tax, finance or a related analytical field experience\n* 3\\+ years of applying key financial performance indicators (KPIs) to analyses experience\n* 3\\+ years of creating process improvements with automation and analysis experience\n* 3\\+ years of identifying, leading, and executing opportunities to improve, automate, standardize or simplify finance or business tools and processes experience\n* Bachelor's degree in engineering, statistics or business, or Bachelor's degree and 5\\+ years of quantitative role (engineering, process re\\-engineering, quality assurance) experience\n\n**PREFERRED QUALIFICATIONS**\n----------------------------\n\n* 3\\+ years of participating in continuous improvement projects in your team to scale and improve controllership with measurable results experience\n* MBA, or CPA\n* Experience working with large\\-scale data mining and reporting tools (examples: SQL, MS Access, Essbase, Cognos) and other financial systems (examples: Oracle, SAP, Lawson, JD Edwards)\n\n  \n\nOur inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how\\-we\\-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "",
-      "job_type": "fulltime",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed"
-    }
-  ]
+  "new_jobs": []
 }
