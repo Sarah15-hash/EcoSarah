@@ -1,6 +1,8 @@
 # 🔥 LinkedIn — Sarah Finance Roles
-*Last updated: 2026-09-30 05:40 UTC*
+*Last updated: 2026-09-30 20:07 UTC*
 
-**0 new role(s)** since last run · 0 total in last 1h
+**1 new role(s)** since last run · 1 total in last 1h
 
-No new roles since the last run.
+### [Actuarial Consultant | Insurance Risk Analyst](https://www.linkedin.com/jobs/view/4472349035/) — Radisson Blu Hotel & Resort, Abu Dhabi Corniche
+- 📍 **Location:** Abu Dhabi Emirate, United Arab Emirates
+- 🕒 **Posted:** 2026-09-30
