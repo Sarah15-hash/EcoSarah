@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-02 06:05 UTC",
+  "scraped_at": "2026-10-02 06:13 UTC",
   "total": 4,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "CBRE",
@@ -76,24 +76,5 @@
       "ats": "Indeed"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Unknown",
-      "title": "Credit Analyst",
-      "location": "Dubai, DU, AE",
-      "url": "https://ae.indeed.com/viewjob?jk=3f48c81dae78793f",
-      "direct_url": "http://ae.indeed.com/job/credit-analyst-3f48c81dae78793f",
-      "company_url": "https://ae.indeed.comNone",
-      "date_posted": "2026-10-01",
-      "description": "**Roles & responsibilities**\n\nAssess and manage credit risk for commercial business transactions. You will evaluate the financial health of obligors, structure insurance solutions, and work closely with domestic and international stakeholders to support business growth.\n\n* Conduct credit risk assessment and determine probability of default in commercial contracts to price insurance guaranties.\n* Negotiate terms and conditions of credit insurance policies In the competitive insurance market.\n* Manage relationships with domestic and international clients, brokers, and partners\n\n**Desired candidate profile**\n\nLocation: Dubai-based\n\n* Certification: Accounting qualification required - CPA / ACCA / CMA or equivalent\n* Experience: Minimum 3 years in Credit Insurance, Banking, Credit Rating Agencies, or Audit Firms preferred\n* Languages: Fluent in English, spoken and written. Additional languages are a plus\n* Qualifications: CFA is an added advantage\n\n**Key Skills:**\n\n* Financial analysis: ratio analysis, financial statements, etc.\n* Data analysis, industry and market research\n* Strong verbal and written communication with a presentable personality\n* Advanced Microsoft Excel proficiency\n\nPay: AED15,000.00 - AED20,000.00 per month\n\nWork Location: In person",
-      "salary": "$15k–$20k/mo",
-      "salary_source": "direct_data",
-      "salary_currency": "AED",
-      "job_type": "fulltime",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed"
-    }
-  ]
+  "new_jobs": []
 }
