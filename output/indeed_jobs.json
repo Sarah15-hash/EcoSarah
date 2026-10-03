@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-03 05:39 UTC",
+  "scraped_at": "2026-10-03 05:44 UTC",
   "total": 4,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Citi",
@@ -76,24 +76,5 @@
       "ats": "Indeed"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Citi",
-      "title": "Regulatory Credit Risk Analyst (UAE Nationals Only)",
-      "location": "Dubai, DU, AE",
-      "url": "https://ae.indeed.com/viewjob?jk=07fffabcd95dd300",
-      "direct_url": "https://jobs.citi.com/job/dubai/regulatory-credit-risk-analyst-uae-nationals-only/287/101437558608",
-      "company_url": "https://ae.indeed.com/cmp/Citi",
-      "date_posted": "2026-10-02",
-      "description": "**Discover your future at Citi**\n--------------------------------\n\nWorking at Citi is far more than just a job. A career with us means joining a team of approximately 219,000 dedicated people from around the globe. At Citi, you’ll have the opportunity to grow your career, give back to your community and make a real impact.\n\n**Job Overview**\n----------------\n\nWe are seeking a meticulous and analytical Credit Risk Analyst to join our Wholesale Credit team. The successful candidate will be responsible for identifying and assessing emerging risks within our portfolio, ensuring compliance with evolving local regulations, and managing comprehensive regulatory reporting. This role requires close collaboration with various business and control functions to support governance, prepare detailed analyses, and mitigate identified risks effectively.\n\n  \n  \n\n**Key Responsibilities**\n========================\n\n* **Approvals Coordination:** Support the Chief Credit Officer (CCO) and CCO Office Approvers by preparing groundwork for pre and post-approvals. Coordinate submissions between internal control functions (including ICM/CLM) and maintain a detailed dashboard for all local regulatory and institutional approvals.\n* **Regulatory Gap Analysis:** Perform thorough gap assessments of new local regulations against existing internal Citibank Wholesale Credit Risk (WCR) policies, standards, and procedures. Recommend and help implement action plans to mitigate any identified gaps.\n* **Governance Presentation:** Assume responsibility for the preparation and potential presentation of sophisticated presentation materials (slides/decks) for key governance forums, including periodic and ad-hoc Risk Oversight Committee (ROC), Model Oversight Committee (MOC) and Country Coordinating Committees (CCC) meetings or for other key stakeholders within Citigroup .\n* **Regulatory Reporting:** Prepare, coordinate, and submit all regular and ad-hoc local regulatory credit related surveys and reporting in coordination and collaboration with other key stakeholders in the Bank.\n* **Portfolio Risk Assessment:** Spearhead the execution of Rapid Portfolio Reviews in response to emergent, high-impact risk events or market changes that could materially affect the portfolio's health. This involves in-depth collaboration with the Institutional Credit Management/Credit Lending Management (ICM/CLM) teams and First Line of Defense (1LoD) Business units to ensure a holistic assessment\n  \n\n  \n\n**Qualifications and Skills**\n=============================\n\n* **Educational Background:** A Bachelor's or Master's degree in Finance, Economics, Business Administration, Statistics, or a related quantitative field is required.\n* **Professional Experience & Technical Skills:** A minimum of 3-5 years of direct experience in risk management, credit analysis, or regulatory reporting capacity within the banking or financial services sector. Familiar with quantitative risk concepts. Demonstrable experience in interpreting financial regulations and implementing internal processes to meet regulatory requirements. Exceptional data analysis and presentation skills; proficiency with Microsoft Excel, PowerPoint, and data visualization tools is essential.\n* **Key Attributes:**\n\n**Analytical Mindset:** Superior analytical and problem-solving skills with an unwavering attention to detail and accuracy.\n\n**Communication:** Excellent written and verbal communication skills, with the ability to articulate complex risk concepts to diverse audiences, including senior management.\n\n**Stakeholder Management:** Proven ability to collaborate effectively within immediate team and across different departments and levels of seniority, including Chief Risk Officer, Compliance and Finance.\n\n**Integrity and Professionalism:** A strong sense of ethics and responsibility in handling sensitive and confidential information.\n\n**Initiative:** A proactive and self-motivated individual capable of managing a demanding workload and prioritizing tasks effectively under tight deadlines.\n\n-\n\n**Job Family Group:**\n---------------------\n\nRisk Management\n\n-\n\n**Job Family:**\n---------------\n\nRisk Functional Management\n\n-\n\n**Time Type:**\n--------------\n\nFull time\n\n-\n\n**Most Relevant Skills**\n------------------------\n\nPlease see the requirements listed above.\n\n-\n\n**Other Relevant Skills**\n-------------------------\n\nFor complementary skills, please see above and/or contact the recruiter.\n\n-\n\n*Citi is an equal opportunity employer, and qualified candidates will receive consideration without regard to their race, color, religion, sex, sexual orientation, gender identity, national origin, disability, status as a protected veteran, or any other characteristic protected by law.*",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "",
-      "job_type": "fulltime",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed"
-    }
-  ]
+  "new_jobs": []
 }
