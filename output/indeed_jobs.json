@@ -1,8 +1,26 @@
 {
-  "scraped_at": "2026-10-04 18:47 UTC",
-  "total": 1,
-  "new_count": 0,
+  "scraped_at": "2026-10-04 22:29 UTC",
+  "total": 2,
+  "new_count": 1,
   "jobs": [
+    {
+      "company": "CBRE Excellerate",
+      "title": "Junior Financial Analyst (Cairo, Egypt)",
+      "location": "القاهرة, C, EG",
+      "url": "https://eg.indeed.com/viewjob?jk=82c91dcb3ea20588",
+      "direct_url": "https://cbreexcellerate.simplify.hr/vacancy/jkhwol?utm_source=Indeed&utm_medium=Organic&utm_campaign=organic_feed",
+      "company_url": "https://eg.indeed.com/cmp/Cbre-Excellerate",
+      "date_posted": "2026-10-04",
+      "description": "**Who we are**\n\nWe are the market leader in commercial real estate services and investments and provide an integrated suite of high-quality real estate services to our clients across Africa and the Middle East, including facilities management, advisory & transaction services, project management.\n\nWe support predominantly corporate clients who buy services on a contracted basis all across the Middle East and Africa - even globally, depending on their portfolio.\n\n**Why choose us**\n\nImagine more than just the future of work; with CBRE Excellerate, you can create it. As part of our global powerhouse, you'll find a culture that fosters an entrepreneurial mindset, where your best work is not just encouraged but celebrated. Collaborate with talented individuals, harness the support of unparalleled resources, and enjoy the journey as you grow both personally and professionally.  \n  \n**Job purpose**  \n  \nThe main purpose of this role is to manage assigned client accounts by overseeing billing, financial reporting, forecasting, reconciliations, compliance, and stakeholder management while ensuring accurate financial operations across multiple countries  \n  \n**What you will be doing**  \n  \nThis position has the authority to:  \n\n* Review and validate billing accuracy based on client contracts and MSAs\n* Recommend financial adjustments and journal entries\n* Escalate collection risks and financial discrepancies\n* Support budget and forecast decisions with stakeholders\n* Approve financial reconciliations and reporting submissions\n* Ensure compliance with accounting standards and company policies\n\n  \n**Skills Required**  \n  \n\n* Financial reporting and analysis\n* Budgeting and forecasting.\n* Billing and collections management\n* Reconciliation and journal entries\n* Advanced Excel skills\n* ERP/SAP systems knowledge\n* Stakeholder communication\n\n  \n**Experience / Education**  \n  \n\n* Bachelor’s degree in Finance, Accounting, or equivalent\n* 1 to 3 years relevant experience in General Ledger accounting or similar finance roles\n* Experience working with ERP systems (preferably SAP)\n* Knowledge of US GAAP principles\n* Strong English communication skills (written and verbal)",
+      "salary": "",
+      "salary_source": "",
+      "salary_currency": "",
+      "job_type": "contract",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "emails": "",
+      "ats": "Indeed"
+    },
     {
       "company": "Car Tuning Parts",
       "title": "Financial Analyst Accounts Payable FEMALE (E-Commerce) Dubai, Al Qusais 1",
@@ -22,5 +40,24 @@
       "ats": "Indeed"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "CBRE Excellerate",
+      "title": "Junior Financial Analyst (Cairo, Egypt)",
+      "location": "القاهرة, C, EG",
+      "url": "https://eg.indeed.com/viewjob?jk=82c91dcb3ea20588",
+      "direct_url": "https://cbreexcellerate.simplify.hr/vacancy/jkhwol?utm_source=Indeed&utm_medium=Organic&utm_campaign=organic_feed",
+      "company_url": "https://eg.indeed.com/cmp/Cbre-Excellerate",
+      "date_posted": "2026-10-04",
+      "description": "**Who we are**\n\nWe are the market leader in commercial real estate services and investments and provide an integrated suite of high-quality real estate services to our clients across Africa and the Middle East, including facilities management, advisory & transaction services, project management.\n\nWe support predominantly corporate clients who buy services on a contracted basis all across the Middle East and Africa - even globally, depending on their portfolio.\n\n**Why choose us**\n\nImagine more than just the future of work; with CBRE Excellerate, you can create it. As part of our global powerhouse, you'll find a culture that fosters an entrepreneurial mindset, where your best work is not just encouraged but celebrated. Collaborate with talented individuals, harness the support of unparalleled resources, and enjoy the journey as you grow both personally and professionally.  \n  \n**Job purpose**  \n  \nThe main purpose of this role is to manage assigned client accounts by overseeing billing, financial reporting, forecasting, reconciliations, compliance, and stakeholder management while ensuring accurate financial operations across multiple countries  \n  \n**What you will be doing**  \n  \nThis position has the authority to:  \n\n* Review and validate billing accuracy based on client contracts and MSAs\n* Recommend financial adjustments and journal entries\n* Escalate collection risks and financial discrepancies\n* Support budget and forecast decisions with stakeholders\n* Approve financial reconciliations and reporting submissions\n* Ensure compliance with accounting standards and company policies\n\n  \n**Skills Required**  \n  \n\n* Financial reporting and analysis\n* Budgeting and forecasting.\n* Billing and collections management\n* Reconciliation and journal entries\n* Advanced Excel skills\n* ERP/SAP systems knowledge\n* Stakeholder communication\n\n  \n**Experience / Education**  \n  \n\n* Bachelor’s degree in Finance, Accounting, or equivalent\n* 1 to 3 years relevant experience in General Ledger accounting or similar finance roles\n* Experience working with ERP systems (preferably SAP)\n* Knowledge of US GAAP principles\n* Strong English communication skills (written and verbal)",
+      "salary": "",
+      "salary_source": "",
+      "salary_currency": "",
+      "job_type": "contract",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "emails": "",
+      "ats": "Indeed"
+    }
+  ]
 }
