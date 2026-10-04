@@ -1,7 +1,45 @@
 {
-  "scraped_at": "2026-10-04 08:47 UTC",
-  "total": 0,
-  "new_count": 0,
-  "jobs": [],
-  "new_jobs": []
+  "scraped_at": "2026-10-04 18:46 UTC",
+  "total": 1,
+  "new_count": 1,
+  "jobs": [
+    {
+      "company": "Car Tuning Parts",
+      "title": "Financial Analyst Accounts Payable FEMALE (E-Commerce) Dubai, Al Qusais 1",
+      "location": "Dubai, DU, AE",
+      "url": "https://ae.indeed.com/viewjob?jk=a54a8d02d2e157c2",
+      "direct_url": "http://ae.indeed.com/job/financial-analyst-accounts-payable-female-e-commerce-dubai-al-qusais-1-a54a8d02d2e157c2",
+      "company_url": "https://ae.indeed.com/cmp/Car-Tuning-Parts",
+      "date_posted": "2026-10-04",
+      "description": "**Accounts Payable / Financial Analyst FEMALE (Processing Orders) E-commerce**\n\n**Sending quotations to customers,**   \n**Bookings of collections,**   \n**Payments reports and calculations,**  \n**Making reports on our crm platform**\n\n**- This job requires:**\n\n* Clerical background and good in MS office\n* Data entries , Accounting, Billing/Reconciliation work experience\n* Clear pronunciation to communicate with customers\n* Ability to work independent (quick learners)\n* Flexible about time to assure that work is done on-time\n\nwe are **located in Dubai, Al Qusais**\n\n**Make sure that you are:**\n\n(1) available to join immediately only (currently unemployed)  \n(2) relevant work experience\n\nJob Type: Full-time\n\nPay: AED3,500.00 - AED5,000.00 per month\n\nApplication Question(s):\n\n* ARE YOU FOCUSED AND WELL ORGANIZED? QUICK LEARNER? GOAL ORIENTED?\n* YOUR AGE / CIVIL STATUS / NATIONALITY\n* WHAT RELEVANT WORK EXPERIENCE YOU HAVE?\n* ARE YOU READY TO JOIN? VISA STATUS?\n* CLERICAL SKILLS /MS OFFICE?\n* WHAT PART OF DUBAI YOU ARE CURRENTLY RESIDING?\n\nEducation:\n\n* Bachelor's (Preferred)\n\nWork Location: In person",
+      "salary": "$3500–$5000/mo",
+      "salary_source": "direct_data",
+      "salary_currency": "AED",
+      "job_type": "fulltime",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "emails": "",
+      "ats": "Indeed"
+    }
+  ],
+  "new_jobs": [
+    {
+      "company": "Car Tuning Parts",
+      "title": "Financial Analyst Accounts Payable FEMALE (E-Commerce) Dubai, Al Qusais 1",
+      "location": "Dubai, DU, AE",
+      "url": "https://ae.indeed.com/viewjob?jk=a54a8d02d2e157c2",
+      "direct_url": "http://ae.indeed.com/job/financial-analyst-accounts-payable-female-e-commerce-dubai-al-qusais-1-a54a8d02d2e157c2",
+      "company_url": "https://ae.indeed.com/cmp/Car-Tuning-Parts",
+      "date_posted": "2026-10-04",
+      "description": "**Accounts Payable / Financial Analyst FEMALE (Processing Orders) E-commerce**\n\n**Sending quotations to customers,**   \n**Bookings of collections,**   \n**Payments reports and calculations,**  \n**Making reports on our crm platform**\n\n**- This job requires:**\n\n* Clerical background and good in MS office\n* Data entries , Accounting, Billing/Reconciliation work experience\n* Clear pronunciation to communicate with customers\n* Ability to work independent (quick learners)\n* Flexible about time to assure that work is done on-time\n\nwe are **located in Dubai, Al Qusais**\n\n**Make sure that you are:**\n\n(1) available to join immediately only (currently unemployed)  \n(2) relevant work experience\n\nJob Type: Full-time\n\nPay: AED3,500.00 - AED5,000.00 per month\n\nApplication Question(s):\n\n* ARE YOU FOCUSED AND WELL ORGANIZED? QUICK LEARNER? GOAL ORIENTED?\n* YOUR AGE / CIVIL STATUS / NATIONALITY\n* WHAT RELEVANT WORK EXPERIENCE YOU HAVE?\n* ARE YOU READY TO JOIN? VISA STATUS?\n* CLERICAL SKILLS /MS OFFICE?\n* WHAT PART OF DUBAI YOU ARE CURRENTLY RESIDING?\n\nEducation:\n\n* Bachelor's (Preferred)\n\nWork Location: In person",
+      "salary": "$3500–$5000/mo",
+      "salary_source": "direct_data",
+      "salary_currency": "AED",
+      "job_type": "fulltime",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "emails": "",
+      "ats": "Indeed"
+    }
+  ]
 }
