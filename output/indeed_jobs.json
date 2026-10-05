@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-05 22:10 UTC",
+  "scraped_at": "2026-10-05 22:11 UTC",
   "total": 1,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Symbol Real Estate",
@@ -22,24 +22,5 @@
       "ats": "Indeed"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Symbol Real Estate",
-      "title": "Real Estate Investment Analyst & Agent",
-      "location": "Dubai, DU, AE",
-      "url": "https://ae.indeed.com/viewjob?jk=4968b93c40a81ee3",
-      "direct_url": "http://ae.indeed.com/job/real-estate-investment-analyst-agent-4968b93c40a81ee3",
-      "company_url": "https://ae.indeed.com/cmp/Symbol-Real-Estate-1",
-      "date_posted": "2026-10-05",
-      "description": "We are looking for a **Real Estate Investment Analyst & Agent** to join our team in Dubai.\n\nThe role is combining **real estate investment analysis, market research, and property sales**. The ideal candidate should be able to identify attractive investment opportunities, analyze their potential returns, and work directly with clients to present and close suitable property investments.\n\n**Key Responsibilities**\n\n* Research and identify profitable real estate investment opportunities.\n* Analyze properties based on price, rental yield, ROI, capital appreciation, and market potential.\n* Stay updated on UAE real estate market trends, new launches, developers, and investment opportunities.\n* Build and maintain relationships with investors, buyers, property owners, and developers.\n* Understand clients' investment goals and recommend suitable properties.\n* Conduct property presentations, viewings, and investment consultations.\n* Generate leads and actively develop new business opportunities.\n* Negotiate with clients and assist in closing property transactions.\n* Prepare investment comparisons, reports, and presentations for clients.\n* Follow up with leads and maintain strong client relationships throughout the sales process.\n* Work closely with developers and internal teams to ensure smooth transactions.\n\n**Requirements**\n\n* Previous experience in **UAE real estate sales, investment advisory, or property investment**.\n* Strong understanding of the Dubai/UAE property market.\n* Good knowledge of property investment concepts such as ROI, rental yield, capital appreciation, and payment plans.\n* Strong communication, negotiation, and sales skills.\n* Analytical and research-oriented mindset.\n* Ability to work independently and achieve sales targets.\n* A valid **RERA/Real Estate Broker Card** is an advantage.\n* Experience dealing with investors and high-net-worth clients is a plus.\n\n**Compensation**\n\n**Salary/Commission: Based on experience and qualifications.**\n\nIf you are passionate about real estate, investment, and sales and can combine **analytical thinking with strong client-facing and sales skills**, we would love to hear from you.\n\nPay: AED1.00 - AED20,000.00 per month\n\nWork Location: In person",
-      "salary": "$1–$20k/mo",
-      "salary_source": "direct_data",
-      "salary_currency": "AED",
-      "job_type": "fulltime",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed"
-    }
-  ]
+  "new_jobs": []
 }
