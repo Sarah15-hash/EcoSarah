@@ -1,8 +1,6 @@
 # 🔥 LinkedIn — Sarah Finance Roles
-*Last updated: 2026-10-07 07:20 UTC*
+*Last updated: 2026-10-07 20:40 UTC*
 
-**1 new role(s)** since last run · 1 total in last 1h
+**0 new role(s)** since last run · 0 total in last 1h
 
-### [Lead Financial Analyst](https://www.linkedin.com/jobs/view/4476559646/) — AD Ports Group
-- 📍 **Location:** Cairo, Egypt
-- 🕒 **Posted:** 2026-10-07
+No new roles since the last run.
