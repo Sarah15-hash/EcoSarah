@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-09 20:18 UTC",
+  "scraped_at": "2026-10-09 20:19 UTC",
   "total": 1,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Money plant fx (SCA REGULATED)",
@@ -22,24 +22,5 @@
       "ats": "Indeed"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Money plant fx (SCA REGULATED)",
-      "title": "Portfolio Manager",
-      "location": "Dubai, DU, United Arab Emirates",
-      "url": "https://ae.indeed.com/viewjob?jk=3053b89d8f7b4c10",
-      "direct_url": "",
-      "company_url": "",
-      "date_posted": "2026-10-09",
-      "description": "Job Summary\n\nMoneyPlant FX is looking for an experienced **Portfolio Manager** to manage client investment portfolios, develop investment strategies, and deliver investment recommendations aligned with clients’ financial objectives and risk profiles.\n\nThe ideal candidate will have strong knowledge of financial markets, portfolio management, investment analysis, and risk management, along with excellent analytical and client relationship skills.\n\nKey Responsibilities\n\n* Manage and monitor client investment portfolios in line with agreed investment objectives and risk tolerance.\n* Develop and implement investment strategies based on clients’ financial goals, risk profiles, and market conditions.\n* Conduct market research and analyze financial instruments, economic trends, and investment opportunities.\n* Monitor portfolio performance and identify opportunities to optimize returns while managing investment risks.\n* Rebalance portfolios based on market movements, asset allocation requirements, and performance objectives.\n* Prepare detailed portfolio performance reports, investment reviews, and recommendations for clients.\n* Communicate investment strategies, market updates, and portfolio performance to clients.\n* Identify and assess investment risks and recommend appropriate risk mitigation strategies.\n* Collaborate with research, trading, sales, and compliance teams to support investment decisions and client requirements.\n* Maintain accurate portfolio records, investment documentation, and client reports.\n* Ensure all investment activities comply with applicable regulatory requirements, internal policies, and procedures.\n\nRequirements & Qualifications\n\n* Bachelor’s degree in Finance, Economics, Business Administration, or a related field.\n* **3–7+ years of experience** in portfolio management, wealth management, asset management, or investment advisory.\n* Strong understanding of financial markets, portfolio construction, asset allocation, and investment risk management.\n* Knowledge of investment products such as equities, fixed income, ETFs, mutual funds, Forex, and other relevant financial instruments.\n* Ability to conduct financial and market analysis and develop investment strategies.\n* Strong analytical, quantitative, and problem-solving skills.\n* Excellent communication, presentation, and client relationship management skills.\n* Ability to explain investment strategies and market developments clearly to clients.\n* Strong attention to detail and the ability to manage multiple client portfolios.\n* Knowledge of applicable financial regulations and compliance requirements.\n\nPay: AED6,000.00 - AED10,000.00 per month\n\nWork Location: In person",
-      "salary": "$6000–$10k/mo",
-      "salary_source": "direct_data",
-      "salary_currency": "AED",
-      "job_type": "fulltime",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed"
-    }
-  ]
+  "new_jobs": []
 }
