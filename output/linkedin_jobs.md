@@ -1,6 +1,8 @@
 # 🔥 LinkedIn — Sarah Finance Roles
-*Last updated: 2026-10-09 01:16 UTC*
+*Last updated: 2026-10-09 07:30 UTC*
 
-**0 new role(s)** since last run · 0 total in last 1h
+**1 new role(s)** since last run · 1 total in last 1h
 
-No new roles since the last run.
+### [Systematic Vol-Arb Portfolio Manager / $10b+ AUM Hedge Fund](https://www.linkedin.com/jobs/view/4475202207/) — Venture Search
+- 📍 **Location:** Dubai, United Arab Emirates
+- 🕒 **Posted:** 2026-10-09
