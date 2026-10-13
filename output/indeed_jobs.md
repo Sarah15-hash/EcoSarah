@@ -1,6 +1,9 @@
 # 🟦 Indeed — Sarah Finance Roles
-*Last updated: 2026-10-13 11:06 UTC*
+*Last updated: 2026-10-13 20:49 UTC*
 
-**0 new role(s)** since last run · 0 total in last 24h
+**1 new role(s)** since last run · 1 total in last 24h
 
-No new roles since the last run.
+### [Investment Analyst](https://sa.indeed.com/viewjob?jk=84f0083cd39857fd) — Al Ghazzawi Group
+- 📍 **Location:** جدة, S02, Saudi Arabia
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-10-13
