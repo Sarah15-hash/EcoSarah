@@ -1,26 +1,7 @@
 {
-  "scraped_at": "2026-10-14 19:41 UTC",
-  "total": 1,
+  "scraped_at": "2026-10-14 22:37 UTC",
+  "total": 0,
   "new_count": 0,
-  "jobs": [
-    {
-      "company": "KBR",
-      "title": "Risk Analyst",
-      "location": "الخبر, S04, Saudi Arabia",
-      "url": "https://sa.indeed.com/viewjob?jk=c828cb4e0f2e172e",
-      "direct_url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Al-Khobar-Saudi-Arabia/Risk-Analyst_R2131072",
-      "company_url": "https://sa.indeed.com/cmp/KBR-066162f8",
-      "date_posted": "2026-10-14",
-      "description": "locations\n\nAl Khobar, Saudi Arabia\n\ntime type\n\nFull time\n\nposted on\n\nPosted Today\n\ntime left to apply\n\nEnd Date: November 29, 2026 (30+ days left to apply)\n\njob requisition id\n\nR2131072\n\n**Title:**\n\nRisk Analyst\n\n**1.1 Purpose:**\n----------------\n\nTo support the implementation and maintenance of project and enterprise risk management (ERM) processes across engineering and project delivery assignments. The Risk Analyst is responsible for maintaining project risk registers, facilitating risk identification and assessment activities, monitoring mitigation actions, and providing accurate risk reporting to support informed decision-making and successful project delivery.\n\n**1.2 Key Responsibilities:**\n-----------------------------\n\n* Support the implementation of project and enterprise risk management processes across assigned projects.\n* Maintain and update project risk and opportunity registers, ensuring information remains accurate, current, and auditable.\n* Assist in facilitating risk identification workshops and risk review meetings with project teams and stakeholders.\n* Develop structured risk statements and support qualitative risk assessments using approved methodologies.\n* Monitor risk mitigation actions and follow up with risk owners to ensure timely closure of actions.\n* Track emerging risks and opportunities throughout the project lifecycle and escalate significant issues where required.\n* Support the evaluation of schedule, cost, technical, commercial, procurement, and execution risks.\n* Prepare risk reports, dashboards, heat maps, and management presentations.\n* Coordinate risk data collection and maintain consistency across risk management systems and reporting tools.\n* Support Project Managers, Project Controls, Engineering Leads, and Commercial teams in risk-related activities.\n* Assist with contingency planning and the development of mitigation strategies.\n* Ensure risk management activities align with project governance requirements and company procedures.\n* Support lessons learned reviews and ensure risk-related knowledge is captured for future projects.\n\n**1.3 Deliverables:**\n---------------------\n\n* Project Risk Registers\n* Opportunity Registers\n* Risk Action and Mitigation Tracking Logs\n* Monthly Risk Reports and Dashboards\n* Risk Heat Maps and Risk Matrices\n* Risk Workshop Records and Action Logs\n* Management Risk Review Presentations\n* Emerging Risk Reports\n* Lessons Learned and Risk Closure Reports\n* Project Risk Status Updates for Governance Reviews\n\n**1.4 Compliance & Standards:**\n-------------------------------\n\n* Company Enterprise Risk Management (ERM) Framework.\n* Project Risk Management Plans (RMPs).\n* Client project risk management requirements and procedures.\n* ISO 31000 Risk Management Principles and Guidelines.\n* Company governance, assurance, and reporting requirements.\n* Project Controls and Risk Management best practices applicable to engineering and project delivery environments.\n\n**1.5 Qualifications:**\n-----------------------\n\n* Bachelor's degree in Engineering (any discipline), Construction Management, Project Management, or a related field.\n* Minimum 2-3 years of experience in project support, project controls, planning, document control, junior engineering, or risk management roles within engineering and project delivery organizations.\n* Experience within oil & gas, energy, infrastructure, or industrial projects preferred.\n* Basic understanding of risk management principles, including risk identification, assessment, mitigation, monitoring, and reporting.\n* Familiarity with Project Risk Management Plans (RMPs) and structured risk registers.\n* Strong proficiency in Microsoft Excel and Microsoft Office applications.\n* Strong written English skills with the ability to prepare clear and concise risk statements and reports.\n* Familiarity with engineering project lifecycles, particularly Pre-FEED, FEED, and Detailed Design phases.\n* Strong analytical, organizational, communication, and stakeholder coordination skills.\n* Ability to manage multiple tasks while maintaining accuracy, attention to detail, and data integrity.",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "",
-      "job_type": "fulltime",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed"
-    }
-  ],
+  "jobs": [],
   "new_jobs": []
 }
