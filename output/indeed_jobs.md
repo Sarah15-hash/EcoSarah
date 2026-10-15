@@ -1,6 +1,10 @@
 # 🟦 Indeed — Sarah Finance Roles
-*Last updated: 2026-10-14 23:24 UTC*
+*Last updated: 2026-10-15 00:52 UTC*
 
-**0 new role(s)** since last run · 0 total in last 24h
+**1 new role(s)** since last run · 1 total in last 24h
 
-No new roles since the last run.
+### [Risk Analyst](https://sa.indeed.com/viewjob?jk=c828cb4e0f2e172e) — KBR
+- 📍 **Location:** الخبر, S04, Saudi Arabia
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-14
