@@ -1,6 +1,8 @@
 # 🔥 LinkedIn — Sarah Finance Roles
-*Last updated: 2026-10-16 07:19 UTC*
+*Last updated: 2026-10-16 18:54 UTC*
 
-**0 new role(s)** since last run · 0 total in last 1h
+**1 new role(s)** since last run · 1 total in last 1h
 
-No new roles since the last run.
+### [Remote Security Risk Analyst | AED 11,000–15,000/Month](https://www.linkedin.com/jobs/view/4480531169/) — Zeriq Cyber Security
+- 📍 **Location:** Dubai, Dubai, United Arab Emirates
+- 🕒 **Posted:** 2026-10-16
