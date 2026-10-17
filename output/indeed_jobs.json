@@ -1,7 +1,45 @@
 {
-  "scraped_at": "2026-10-17 00:46 UTC",
-  "total": 0,
-  "new_count": 0,
-  "jobs": [],
-  "new_jobs": []
+  "scraped_at": "2026-10-17 05:01 UTC",
+  "total": 1,
+  "new_count": 1,
+  "jobs": [
+    {
+      "company": "DICETEK LLC",
+      "title": "Credit Analyst – Finance",
+      "location": "Dubai, DU, United Arab Emirates",
+      "url": "https://ae.indeed.com/viewjob?jk=73862779420f3d81",
+      "direct_url": "https://dicetek.talentrecruit.com/career-page/apply/U2FsdGVkX1%252Bf8yqh7gnz6OBnCjiPm6wMMjozf%252FE8RN4%253D?viewJD=true",
+      "company_url": "https://ae.indeed.com/cmp/Dicetek-LLC",
+      "date_posted": "2026-10-17",
+      "description": "**Job Summary:**\n\nWe are looking for a Credit Analyst with a strong finance background, preferably a Chartered Accountant (CA), to support credit assessment and financial analysis activities on a 6-month contract.\n\n**Key Responsibilities:**\n\n* Analyze financial statements, balance sheets, and cash flow reports to assess the creditworthiness of clients.\n* Conduct financial ratio analysis and evaluate credit risks.\n* Review credit applications, repayment capacity, and existing financial obligations.\n* Prepare credit assessment reports and recommendations.\n* Identify potential financial risks and ensure compliance with credit policies and procedures.\n\n**Requirements:**\n\n* Bachelor’s degree in Finance, Accounting, or a related field; **CA qualification preferred**.\n* Relevant experience in credit analysis, financial analysis, or credit risk assessment.\n* Strong knowledge of financial statements, credit evaluation, and risk analysis.\n* Proficiency in MS Excel and financial analysis tools.\n* Strong analytical, numerical, and report-writing skills.\n\n**Skills:** Financial Analysis , Risk Assessment , MS Excel",
+      "salary": "",
+      "salary_source": "",
+      "salary_currency": "",
+      "job_type": "contract",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "emails": "",
+      "ats": "Indeed"
+    }
+  ],
+  "new_jobs": [
+    {
+      "company": "DICETEK LLC",
+      "title": "Credit Analyst – Finance",
+      "location": "Dubai, DU, United Arab Emirates",
+      "url": "https://ae.indeed.com/viewjob?jk=73862779420f3d81",
+      "direct_url": "https://dicetek.talentrecruit.com/career-page/apply/U2FsdGVkX1%252Bf8yqh7gnz6OBnCjiPm6wMMjozf%252FE8RN4%253D?viewJD=true",
+      "company_url": "https://ae.indeed.com/cmp/Dicetek-LLC",
+      "date_posted": "2026-10-17",
+      "description": "**Job Summary:**\n\nWe are looking for a Credit Analyst with a strong finance background, preferably a Chartered Accountant (CA), to support credit assessment and financial analysis activities on a 6-month contract.\n\n**Key Responsibilities:**\n\n* Analyze financial statements, balance sheets, and cash flow reports to assess the creditworthiness of clients.\n* Conduct financial ratio analysis and evaluate credit risks.\n* Review credit applications, repayment capacity, and existing financial obligations.\n* Prepare credit assessment reports and recommendations.\n* Identify potential financial risks and ensure compliance with credit policies and procedures.\n\n**Requirements:**\n\n* Bachelor’s degree in Finance, Accounting, or a related field; **CA qualification preferred**.\n* Relevant experience in credit analysis, financial analysis, or credit risk assessment.\n* Strong knowledge of financial statements, credit evaluation, and risk analysis.\n* Proficiency in MS Excel and financial analysis tools.\n* Strong analytical, numerical, and report-writing skills.\n\n**Skills:** Financial Analysis , Risk Assessment , MS Excel",
+      "salary": "",
+      "salary_source": "",
+      "salary_currency": "",
+      "job_type": "contract",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "emails": "",
+      "ats": "Indeed"
+    }
+  ]
 }
