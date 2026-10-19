@@ -1,12 +1,8 @@
 # 🔥 LinkedIn — Sarah Finance Roles
-*Last updated: 2026-10-19 05:11 UTC*
+*Last updated: 2026-10-19 20:41 UTC*
 
-**2 new role(s)** since last run · 4 total in last 1h
+**1 new role(s)** since last run · 1 total in last 1h
 
-### [Credit Analyst - Home Finance (Emirati Talent)](https://www.linkedin.com/jobs/view/4478246499/) — DIB
-- 📍 **Location:** Dubai, United Arab Emirates
-- 🕒 **Posted:** 2026-10-19
-
-### [Credit Analyst - Personal Finance (Emirati Talent)](https://www.linkedin.com/jobs/view/4478250381/) — DIB
-- 📍 **Location:** Dubai, United Arab Emirates
+### [Remote Junior Cybersecurity Digital Risk Analyst | AED 13,000–17,000/Month](https://www.linkedin.com/jobs/view/4481274197/) — Zeriq Cyber Security
+- 📍 **Location:** Dubai, Dubai, United Arab Emirates
 - 🕒 **Posted:** 2026-10-19
