@@ -1,6 +1,12 @@
 # 🔥 LinkedIn — Sarah Finance Roles
-*Last updated: 2026-10-18 23:19 UTC*
+*Last updated: 2026-10-19 04:51 UTC*
 
-**0 new role(s)** since last run · 0 total in last 1h
+**2 new role(s)** since last run · 2 total in last 1h
 
-No new roles since the last run.
+### [Senior Officer - Financial Analyst](https://www.linkedin.com/jobs/view/4478252221/) — Relaam
+- 📍 **Location:** Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates
+- 🕒 **Posted:** 2026-10-19
+
+### [Risk Analyst](https://www.linkedin.com/jobs/view/4479956515/) — Asociación Española de Empleo con Apoyo - AESE
+- 📍 **Location:** United Arab Emirates
+- 🕒 **Posted:** 2026-10-19
