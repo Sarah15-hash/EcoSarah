@@ -1,7 +1,45 @@
 {
-  "scraped_at": "2026-10-19 01:42 UTC",
-  "total": 0,
-  "new_count": 0,
-  "jobs": [],
-  "new_jobs": []
+  "scraped_at": "2026-10-19 05:12 UTC",
+  "total": 1,
+  "new_count": 1,
+  "jobs": [
+    {
+      "company": "zcreatix",
+      "title": "Risk Analyst",
+      "location": "Dubai, DU, United Arab Emirates",
+      "url": "https://ae.indeed.com/viewjob?jk=4c11a6d3b245ea59",
+      "direct_url": "https://zcreatix.online/jobs/risk-analyst/",
+      "company_url": "https://ae.indeed.com/cmp/Zcreatix",
+      "date_posted": "2026-10-19",
+      "description": "##### **Overview**\n\n**Job Description**\n-------------------\n\n* Analyze card transaction activity using fraud monitoring platforms to detect unusual patterns, suspicious payments, and potential fraudulent behavior.\n* Investigate fraud alerts, disputed payments, chargebacks, and reported incidents, coordinating with customers, internal departments, and international payment card networks as required.\n* Apply relevant Visa and Mastercard regulations, internal policies, and security procedures when assessing transactions and managing fraud-related cases.\n* Review and maintain antifraud system rules and monitoring parameters to improve detection accuracy and reduce financial exposure.\n* Maintain complete records of investigations, suspicious transactions, case outcomes, and corrective measures to support audits, compliance reviews, and future reference.\n* Participate in staff awareness initiatives and training sessions focused on fraud prevention, payment security, and effective risk management practices.\n* Assess existing fraud prevention procedures and security controls, recommending improvements to strengthen payment protection and operational reliability.\n* Coordinate with relevant stakeholders to ensure fraud cases are reviewed promptly and handled in line with established procedures and required timelines.\n\n**Job Details Experience**\n--------------------------\n\n  \n\n* Bachelor's degree in Finance\n* One to three years of professional experience in financial services, including at least one to two years in fraud prevention, risk management, compliance, or a similar function.\n* Practical experience with transaction monitoring platforms, fraud detection software, or other antifraud systems.\n* Good understanding of card payment processing, card operations, and the regulations and operating procedures of Visa and Mastercard.\n* Strong analytical and investigative skills, with the ability to examine transaction data, recognize irregularities, assess potential risks, and handle complex cases.\n* High attention to detail and a systematic approach to reviewing evidence, documenting findings, and maintaining accurate case records.\n* Good verbal and written communication skills, with the ability to explain findings and coordinate effectively with customers, internal teams, payment networks, and other stakeholders.\n\nAbout Company:\n  \nZCREATIX is a modern and growth-oriented organization focused on delivering high-quality results across multiple industries. We value creativity, innovation, and teamwork, and we are looking for motivated individuals who want to grow professionally while contributing to impactful projects in a fast-paced environment.\n\n##### **Job Nature**\n\nFull Time\n\n##### **Job Location**\n\nDubai\n\n##### **Job Level**\n\nSr. Position",
+      "salary": "",
+      "salary_source": "",
+      "salary_currency": "",
+      "job_type": "fulltime",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "emails": "",
+      "ats": "Indeed"
+    }
+  ],
+  "new_jobs": [
+    {
+      "company": "zcreatix",
+      "title": "Risk Analyst",
+      "location": "Dubai, DU, United Arab Emirates",
+      "url": "https://ae.indeed.com/viewjob?jk=4c11a6d3b245ea59",
+      "direct_url": "https://zcreatix.online/jobs/risk-analyst/",
+      "company_url": "https://ae.indeed.com/cmp/Zcreatix",
+      "date_posted": "2026-10-19",
+      "description": "##### **Overview**\n\n**Job Description**\n-------------------\n\n* Analyze card transaction activity using fraud monitoring platforms to detect unusual patterns, suspicious payments, and potential fraudulent behavior.\n* Investigate fraud alerts, disputed payments, chargebacks, and reported incidents, coordinating with customers, internal departments, and international payment card networks as required.\n* Apply relevant Visa and Mastercard regulations, internal policies, and security procedures when assessing transactions and managing fraud-related cases.\n* Review and maintain antifraud system rules and monitoring parameters to improve detection accuracy and reduce financial exposure.\n* Maintain complete records of investigations, suspicious transactions, case outcomes, and corrective measures to support audits, compliance reviews, and future reference.\n* Participate in staff awareness initiatives and training sessions focused on fraud prevention, payment security, and effective risk management practices.\n* Assess existing fraud prevention procedures and security controls, recommending improvements to strengthen payment protection and operational reliability.\n* Coordinate with relevant stakeholders to ensure fraud cases are reviewed promptly and handled in line with established procedures and required timelines.\n\n**Job Details Experience**\n--------------------------\n\n  \n\n* Bachelor's degree in Finance\n* One to three years of professional experience in financial services, including at least one to two years in fraud prevention, risk management, compliance, or a similar function.\n* Practical experience with transaction monitoring platforms, fraud detection software, or other antifraud systems.\n* Good understanding of card payment processing, card operations, and the regulations and operating procedures of Visa and Mastercard.\n* Strong analytical and investigative skills, with the ability to examine transaction data, recognize irregularities, assess potential risks, and handle complex cases.\n* High attention to detail and a systematic approach to reviewing evidence, documenting findings, and maintaining accurate case records.\n* Good verbal and written communication skills, with the ability to explain findings and coordinate effectively with customers, internal teams, payment networks, and other stakeholders.\n\nAbout Company:\n  \nZCREATIX is a modern and growth-oriented organization focused on delivering high-quality results across multiple industries. We value creativity, innovation, and teamwork, and we are looking for motivated individuals who want to grow professionally while contributing to impactful projects in a fast-paced environment.\n\n##### **Job Nature**\n\nFull Time\n\n##### **Job Location**\n\nDubai\n\n##### **Job Level**\n\nSr. Position",
+      "salary": "",
+      "salary_source": "",
+      "salary_currency": "",
+      "job_type": "fulltime",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "emails": "",
+      "ats": "Indeed"
+    }
+  ]
 }
