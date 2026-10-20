@@ -1,8 +1,6 @@
 # 🔥 LinkedIn — Sarah Finance Roles
-*Last updated: 2026-10-20 00:27 UTC*
+*Last updated: 2026-10-20 05:18 UTC*
 
-**1 new role(s)** since last run · 1 total in last 1h
+**0 new role(s)** since last run · 0 total in last 1h
 
-### [Risk Analyst (SQL), Fraud Prevention](https://www.linkedin.com/jobs/view/4480287992/) — Binance
-- 📍 **Location:** United Arab Emirates
-- 🕒 **Posted:** 2026-10-19
+No new roles since the last run.
