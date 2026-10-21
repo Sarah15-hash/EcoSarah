@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-21 01:56 UTC",
-  "total": 1,
-  "new_count": 0,
+  "scraped_at": "2026-10-21 06:34 UTC",
+  "total": 2,
+  "new_count": 1,
   "jobs": [
     {
       "company": "Julphar",
@@ -20,7 +20,44 @@
       "work_arrangement": "On-site",
       "emails": "",
       "ats": "Indeed"
+    },
+    {
+      "company": "Coral Yachts",
+      "title": "Financial Analyst – Management Reporting & Cost Analysis",
+      "location": "Abu Dhabi, AZ, United Arab Emirates",
+      "url": "https://ae.indeed.com/viewjob?jk=2404c9ff493900e0",
+      "direct_url": "",
+      "company_url": "https://ae.indeed.com/cmp/Coral-Yachts",
+      "date_posted": "2026-10-21",
+      "description": "We are looking for a detail-oriented Financial Analyst to analyse company financial transactions, expenditure, and financial data and prepare comprehensive monthly and quarterly management reports. The candidate must be able to identify cost trends, highlight key financial observations, and provide data-driven recommendations to support management decision-making.\n\nKey Responsibilities\n\n* Analyse company financial transactions, expenses, and expenditure patterns.\n* Prepare monthly and quarterly financial analysis and management reports.\n* Identify major cost drivers, unusual transactions, spending trends, and potential cost-saving opportunities.\n* Compare actual expenditure against budgets, previous periods, and forecasts where applicable.\n* Develop management dashboards, charts, and KPI reports to present financial performance clearly.\n* Provide meaningful observations and recommendations based on the analysis.\n* Reconcile and validate financial data to ensure accuracy and consistency.\n* Work with the Finance and Operations teams to obtain and verify relevant financial information.\n* Present key findings and financial insights to management.\n\nRequirements\n\n* Masters degree in Finance, Accounting, Economics, Business Administration, or a related field.\n* Minimum 4 years experience in financial analysis, management reporting, or financial planning and analysis.\n* Strong analytical skills and the ability to interpret large volumes of financial data.\n* Advanced Microsoft Excel skills, including PivotTables, lookup functions, and data visualisation.\n* Experience with Power BI or other reporting and dashboard tools\n* Strong attention to detail and the ability to translate financial data into clear business insights.\n* Excellent report-writing and presentation skills.\n\nPay: From AED7,000.00 per month\n\nWork Location: In person",
+      "salary": "$7000/mo",
+      "salary_source": "direct_data",
+      "salary_currency": "AED",
+      "job_type": "fulltime",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "emails": "",
+      "ats": "Indeed"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "Coral Yachts",
+      "title": "Financial Analyst – Management Reporting & Cost Analysis",
+      "location": "Abu Dhabi, AZ, United Arab Emirates",
+      "url": "https://ae.indeed.com/viewjob?jk=2404c9ff493900e0",
+      "direct_url": "",
+      "company_url": "https://ae.indeed.com/cmp/Coral-Yachts",
+      "date_posted": "2026-10-21",
+      "description": "We are looking for a detail-oriented Financial Analyst to analyse company financial transactions, expenditure, and financial data and prepare comprehensive monthly and quarterly management reports. The candidate must be able to identify cost trends, highlight key financial observations, and provide data-driven recommendations to support management decision-making.\n\nKey Responsibilities\n\n* Analyse company financial transactions, expenses, and expenditure patterns.\n* Prepare monthly and quarterly financial analysis and management reports.\n* Identify major cost drivers, unusual transactions, spending trends, and potential cost-saving opportunities.\n* Compare actual expenditure against budgets, previous periods, and forecasts where applicable.\n* Develop management dashboards, charts, and KPI reports to present financial performance clearly.\n* Provide meaningful observations and recommendations based on the analysis.\n* Reconcile and validate financial data to ensure accuracy and consistency.\n* Work with the Finance and Operations teams to obtain and verify relevant financial information.\n* Present key findings and financial insights to management.\n\nRequirements\n\n* Masters degree in Finance, Accounting, Economics, Business Administration, or a related field.\n* Minimum 4 years experience in financial analysis, management reporting, or financial planning and analysis.\n* Strong analytical skills and the ability to interpret large volumes of financial data.\n* Advanced Microsoft Excel skills, including PivotTables, lookup functions, and data visualisation.\n* Experience with Power BI or other reporting and dashboard tools\n* Strong attention to detail and the ability to translate financial data into clear business insights.\n* Excellent report-writing and presentation skills.\n\nPay: From AED7,000.00 per month\n\nWork Location: In person",
+      "salary": "$7000/mo",
+      "salary_source": "direct_data",
+      "salary_currency": "AED",
+      "job_type": "fulltime",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "emails": "",
+      "ats": "Indeed"
+    }
+  ]
 }
