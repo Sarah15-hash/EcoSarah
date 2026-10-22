@@ -1,6 +1,10 @@
 # 🟦 Indeed — Sarah Finance Roles
-*Last updated: 2026-10-22 06:35 UTC*
+*Last updated: 2026-10-22 07:55 UTC*
 
-**0 new role(s)** since last run · 1 total in last 24h
+**1 new role(s)** since last run · 2 total in last 24h
 
-No new roles since the last run.
+### [Senior Enterprise Risk Analyst](https://eg.indeed.com/viewjob?jk=8cc1961034de693c) — Tabby
+- 📍 **Location:** القاهرة, C, Egypt
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-22
