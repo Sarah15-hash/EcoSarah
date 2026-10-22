@@ -1,8 +1,6 @@
 # 🔥 LinkedIn — Sarah Finance Roles
-*Last updated: 2026-10-22 19:16 UTC*
+*Last updated: 2026-10-22 22:28 UTC*
 
-**1 new role(s)** since last run · 1 total in last 1h
+**0 new role(s)** since last run · 0 total in last 1h
 
-### [Credit Risk Analyst](https://www.linkedin.com/jobs/view/4481399311/) — HALA
-- 📍 **Location:** Riyadh, Saudi Arabia
-- 🕒 **Posted:** 2026-10-22
+No new roles since the last run.
