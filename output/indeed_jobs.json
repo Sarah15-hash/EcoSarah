@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-22 19:24 UTC",
+  "scraped_at": "2026-10-22 19:30 UTC",
   "total": 2,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Tabby",
@@ -40,24 +40,5 @@
       "ats": "Indeed"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Miraj Crest Realty",
-      "title": "Portfolio Manager",
-      "location": "Dubai, DU, United Arab Emirates",
-      "url": "https://ae.indeed.com/viewjob?jk=c7efa96e157f8a47",
-      "direct_url": "",
-      "company_url": "",
-      "date_posted": "2026-10-22",
-      "description": "Portfolio Manager (Dubai - Off-plan)\n\nWe are looking for a **results-driven Real Estate Consultant** with experience in Dubai’s Real Estate Market\n\n**Key Responsibilities**\n\n* Handle buying, selling and resale transactions across Dubai.\n* Generate leads through calls, referrals, networking and personal prospecting.\n* Build and maintain strong client and property databases.\n* Conduct property viewings, negotiate deals and close transactions.\n* Stay updated on Dubai market trends, pricing and regulations.\n* Achieve individual sales and revenue targets.\n\n**Requirements**\n\n* 1+ year of experience in Dubai real estate.\n* Strong communication, negotiation and closing skills.\n* Good knowledge of the Dubai primary real estate market\n* Target-driven, professional and client-focused.\n\n**What We Offer**\n\n* Competitive salary/retainer + attractive commission structure.\n* Quality leads and marketing support.\n* Release the commission before the developer\n* Premium property inventory.\n* Training, mentorship and career growth.\n\nPay: AED3,500.00 - AED5,000.00 per month\n\nWork Location: In person",
-      "salary": "$3500–$5000/mo",
-      "salary_source": "direct_data",
-      "salary_currency": "AED",
-      "job_type": "fulltime",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed"
-    }
-  ]
+  "new_jobs": []
 }
