@@ -1,10 +1,11 @@
 # 🟦 Indeed — Sarah Finance Roles
-*Last updated: 2026-10-22 07:55 UTC*
+*Last updated: 2026-10-22 19:24 UTC*
 
 **1 new role(s)** since last run · 2 total in last 24h
 
-### [Senior Enterprise Risk Analyst](https://eg.indeed.com/viewjob?jk=8cc1961034de693c) — Tabby
-- 📍 **Location:** القاهرة, C, Egypt
+### [Portfolio Manager](https://ae.indeed.com/viewjob?jk=c7efa96e157f8a47) — Miraj Crest Realty
+- 📍 **Location:** Dubai, DU, United Arab Emirates
+- 💰 **Salary:** $3500–$5000/mo
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-22
