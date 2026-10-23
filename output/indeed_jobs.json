@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-23 19:31 UTC",
+  "scraped_at": "2026-10-23 19:32 UTC",
   "total": 1,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "SEGULA Technologies",
@@ -22,24 +22,5 @@
       "ats": "Indeed"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "SEGULA Technologies",
-      "title": "Senior Financial Analyst - 6 months (Environmental Services) Dubai, UAE",
-      "location": "Dubai, DU, United Arab Emirates",
-      "url": "https://ae.indeed.com/viewjob?jk=7555b842b2573a56",
-      "direct_url": "https://careers.segulatechnologies.com/en/annonce/4660495-senior-financial-analyst-6-months-environmental-services-dubai-uae-dubai?s_o=indeed&s_b=DigitalRecruiters",
-      "company_url": "https://ae.indeed.com/cmp/Segula-Technologies",
-      "date_posted": "2026-10-23",
-      "description": "**Employment Type:** 6-Month Contract  \n**Industry:** Industrial / Environmental Services  \n**Experience Required:** Minimum 7 years  \n**Availability:** Immediate or Short Notice Preferred\n\n**Job Description**\n-------------------\n\nWe are seeking an experienced **Senior Financial Analyst** to support the Finance Department of a leading organization operating in the industrial and environmental services sector.\n\nThe successful candidate will support the CFO in financial reporting, accounting operations, budgeting, forecasting, financial consolidation, regulatory compliance, and internal controls.\n\nThe position requires strong technical accounting expertise, analytical capabilities, and the ability to manage financial reporting activities independently.\n\n**Key Responsibilities**\n------------------------\n\n* Support the CFO in daily finance operations and financial decision-making.\n* Prepare, verify, and record accounting transactions relating to assets, liabilities, and capital accounts.\n* Review monthly payroll records prior to payment processing.\n* Ensure timely and accurate financial reporting in compliance with GAAP and IFRS.\n* Manage lease accounting and financial reporting in accordance with IFRS 16.\n* Assist with annual budgeting and quarterly financial forecasts.\n* Take ownership of month-end closing and financial reporting processes.\n* Review, validate, and consolidate financial information using corporate consolidation tools.\n* Prepare and analyze balance sheets, profit and loss statements, management reports, and other financial statements.\n* Perform monthly balance sheet reconciliations and investigate financial discrepancies.\n* Prepare activity-based and location-based profitability analyses and cost allocations.\n* Oversee tax provisions, deferred tax calculations, and related accounting requirements.\n* Ensure appropriate internal controls and compliance with applicable financial and tax regulations.\n* Coordinate external audits and implement audit recommendations.\n* Develop and improve financial procedures, reporting processes, and accounting controls.\n* Prepare monthly, quarterly, and annual management information reports.\n* Guide and support finance team members when required.\n* Collaborate with internal stakeholders to ensure accurate and reliable financial information.\n\n* Chartered Accountant (CA), MBA in Finance, or equivalent qualification from an accredited institution.\n* **Minimum 7 years of relevant experience** in accounting, financial management, and financial reporting.\n* Previous experience in an industrial environment is highly desirable.\n* Strong knowledge of IFRS, GAAP, and IFRS 16 lease accounting.\n* Experience in financial consolidation, budgeting, forecasting, and month-end closing.\n* Knowledge of taxation, deferred tax accounting, and financial compliance.\n* Experience with financial systems such as SAP, Oracle Financials, or Microsoft Dynamics NAV/Navision.\n* Advanced proficiency in Microsoft Excel, MS Office, and Google Workspace.\n* Strong analytical, organizational, communication, and stakeholder management skills.\n* Ability to work independently, prioritize deadlines, and manage multiple financial activities.\n* Relevant professional finance certifications and a UAE driving licence are advantageous.\n\n**Contract Details**\n--------------------\n\n* Duration: 6 months\n* Work Arrangement: Full-time, client-assigned position\n* Joining: As soon as possible\n\n**Apply only if you have experience in financial reporting, IFRS/GAAP accounting, financial consolidation, budgeting, forecasting, and month-end closing, with a minimum of 7 years of relevant finance experience.**",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "",
-      "job_type": "parttime",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed"
-    }
-  ]
+  "new_jobs": []
 }
