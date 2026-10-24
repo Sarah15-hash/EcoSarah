@@ -1,12 +1,6 @@
 # 🔥 LinkedIn — Sarah Finance Roles
-*Last updated: 2026-10-24 06:25 UTC*
+*Last updated: 2026-10-24 07:26 UTC*
 
-**2 new role(s)** since last run · 2 total in last 1h
+**0 new role(s)** since last run · 0 total in last 1h
 
-### [Credit Analyst / Credit Officer](https://www.linkedin.com/jobs/view/4481036099/) — BT E-SERV (INDIA) PRIVATE LIMITED
-- 📍 **Location:** Dubai, United Arab Emirates
-- 🕒 **Posted:** 2026-10-24
-
-### [Financial Analyst / Marketing Specialist](https://www.linkedin.com/jobs/view/4481017860/) — SM Architecture Maroc
-- 📍 **Location:** Dubai, United Arab Emirates
-- 🕒 **Posted:** 2026-10-24
+No new roles since the last run.
