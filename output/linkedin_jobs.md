@@ -1,8 +1,6 @@
 # 🔥 LinkedIn — Sarah Finance Roles
-*Last updated: 2026-10-24 18:14 UTC*
+*Last updated: 2026-10-24 20:56 UTC*
 
-**1 new role(s)** since last run · 1 total in last 1h
+**0 new role(s)** since last run · 0 total in last 1h
 
-### [Fraud Risk Analyst / Financial Crime Analyst](https://www.linkedin.com/jobs/view/4481048642/) — JOBS & CAREERS - OPEN WORK
-- 📍 **Location:** Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates
-- 🕒 **Posted:** 2026-10-24
+No new roles since the last run.
