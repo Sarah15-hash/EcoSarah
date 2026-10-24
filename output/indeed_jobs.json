@@ -1,26 +1,7 @@
 {
-  "scraped_at": "2026-10-24 21:11 UTC",
-  "total": 1,
+  "scraped_at": "2026-10-24 23:35 UTC",
+  "total": 0,
   "new_count": 0,
-  "jobs": [
-    {
-      "company": "ark47.ai",
-      "title": "Financial Analyst",
-      "location": "الرياض, S01, Saudi Arabia",
-      "url": "https://sa.indeed.com/viewjob?jk=0d83575a1668938e",
-      "direct_url": "https://careers.apexops.sa/jobs/8611174-financial-analyst",
-      "company_url": "https://sa.indeed.com/cmp/Ark47.ai",
-      "date_posted": "2026-10-23",
-      "description": "### **About ARK47 Studio**\n\nARK47 Studio is a Saudi AI app, available on the App Store and Google Play, that builds business systems from a plain-language description: for example HR, bookings, an online store or a sales board. It drafts a plan with the business owner first, then builds the screens, data and access permissions. We are a Riyadh team bringing it to businesses in the Kingdom and beyond.\n\nTo get to know our work, we recommend downloading ARK47 Studio from the App Store or Google Play via our careers page: careers.apexops.sa\n\n### **What you will do**\n\n* Prepare the company’s annual budget, and update the monthly forecast of revenue, costs and cash.\n* Calculate the cost of each build in ARK47 Studio, from AI models and hosting, against the credits it uses.\n* Build pricing models for the credit packages, and test how a price change would affect revenue.\n* Prepare financial models for management decisions, such as hiring plans and new markets.\n* Present findings every month in plain language.\n\n### **What we need**\n\n* Minimum qualification: a bachelor’s degree, or equivalent work experience.\n* Based in Riyadh, or willing to relocate to Riyadh.\n* 3+ years in financial analysis, financial planning or corporate finance.\n* Advanced Excel or Google Sheets, including financial modelling.\n* Arabic and English, spoken and written.\n\n### **Pay and terms**\n\n* Total monthly salary SAR 12,000–17,000 (basic salary plus allowances), depending on experience.\n* Full-time, on-site at our Riyadh office; working days, hours and annual leave per the Saudi Labour Law.\n* Health insurance and GOSI registration as required by Saudi law.\n* Employer: Apex Operations Company. Work location: Riyadh.\n\n### **How we select**\n\n* We aim to reply to every application within 7 days.\n* A 30-minute video call about the role and ARK47 Studio, in which we hear your view of the app and your questions.\n* For shortlisted candidates, a 30-minute pricing exercise about ARK47 Studio, using a test account we provide.\n* Final interview in Riyadh. We inform every interviewed candidate of the result within 30 days of their interview.\n\nApplications are accepted online only, through this job posting, until 14 January 2027. We assess every application on skills and experience. Adjustments for candidates with disabilities are available at every stage on request.",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "",
-      "job_type": "",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed"
-    }
-  ],
+  "jobs": [],
   "new_jobs": []
 }
