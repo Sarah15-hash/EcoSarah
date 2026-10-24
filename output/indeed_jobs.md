@@ -1,6 +1,9 @@
 # 🟦 Indeed — Sarah Finance Roles
-*Last updated: 2026-10-23 22:38 UTC*
+*Last updated: 2026-10-24 01:05 UTC*
 
-**0 new role(s)** since last run · 1 total in last 24h
+**1 new role(s)** since last run · 2 total in last 24h
 
-No new roles since the last run.
+### [Financial Analyst](https://sa.indeed.com/viewjob?jk=0d83575a1668938e) — ark47.ai
+- 📍 **Location:** الرياض, S01, Saudi Arabia
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-10-23
