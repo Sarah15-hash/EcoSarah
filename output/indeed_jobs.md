@@ -1,5 +1,5 @@
 # 🟦 Indeed — Sarah Finance Roles
-*Last updated: 2026-10-30 00:23 UTC*
+*Last updated: 2026-10-30 06:20 UTC*
 
 **0 new role(s)** since last run · 0 total in last 24h
 
