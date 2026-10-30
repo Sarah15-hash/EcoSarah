@@ -1,7 +1,81 @@
 {
-  "scraped_at": "2026-10-30 06:27 UTC",
-  "total": 0,
-  "new_count": 0,
-  "jobs": [],
-  "new_jobs": []
+  "scraped_at": "2026-10-30 20:04 UTC",
+  "total": 2,
+  "new_count": 2,
+  "jobs": [
+    {
+      "company": "BlackStone eIT",
+      "title": "Program / Portfolio Manager",
+      "location": "مدينة نصر, C, Egypt",
+      "url": "https://eg.indeed.com/viewjob?jk=9fadaf19698ce77a",
+      "direct_url": "https://apply.workable.com/j/427E100920",
+      "company_url": "https://eg.indeed.com/cmp/Blackstone-Eit",
+      "date_posted": "2026-10-30",
+      "description": "*Key Responsibilities*\n\n* *Lead, mentor, and manage a team of Project Managers, ensuring accountability and consistent delivery practices.*\n* *Directly manage and deliver assigned projects end-to-end, from initiation and planning through execution, deployment, and closure.*\n* *Oversee portfolio planning, resource allocation, prioritization, and capacity management.*\n* *Monitor project performance, risks, dependencies, budgets, and delivery KPIs.*\n* *Manage escalations and drive resolution of critical delivery issues.*\n* *Ensure consistent project governance, reporting, and compliance with delivery methodologies.*\n* *Coordinate with senior management, clients, and internal departments to align priorities and expectations.*\n* *Drive continuous improvement across project management practices and delivery performance.*\n\n  \n**Requirements**  \n\n* *Proven experience managing multiple projects and leading Project Managers.*\n* *Demonstrated ability to lead and deliver complex projects independently.*\n* *Strong expertise in project governance, portfolio management, risk management, and resource planning.*\n* *Excellent leadership, communication, stakeholder management, and problem-solving skills.*\n* *Ability to manage competing priorities and drive results across multiple teams.*",
+      "salary": "",
+      "salary_source": "",
+      "salary_currency": "",
+      "job_type": "",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "emails": "",
+      "ats": "Indeed"
+    },
+    {
+      "company": "Tabby",
+      "title": "Risk Analyst",
+      "location": "Egypt",
+      "url": "https://eg.indeed.com/viewjob?jk=fcdfa6990581eb6e",
+      "direct_url": "https://tabby.pinpointhq.com/postings/9a7e39c9-e0fb-4a9f-84e2-3115f2c7d9e1?utm_medium=job_board&utm_source=indeed",
+      "company_url": "https://eg.indeed.com/cmp/Tabby",
+      "date_posted": "2026-10-30",
+      "description": "### **Description**\n\n**About tabby**  \n  \nTabby is on a mission to give people power over their money. For too long, financial systems have worked for the institutions that built them, not the people using them. Runaway interest, fine print and limited access have left many behind, feeling shut out of a system that wasn't setting them up for success.  \n  \nWe're building a different kind of system—in a complete money app to send, spend and save. One that's clear, flexible and puts people and businesses in control. Founded in 2019, we serve customers and businesses across Saudi Arabia, the United Arab Emirates and Kuwait. Millions of customers and 65,000 global brands, government services and small businesses rely on us today.  \n  \nWhat began as a better way to pay at checkout has grown into a financial system working the way it should have all along.  \n  \n**About the Role**\n\nAs a Risk Analyst at Tabby, you will play a key role in analysing risk performance and contributing to the risk strategy across our products. You will work with large datasets to identify trends, monitor portfolio performance, and support data-driven decisions that balance growth with risk discipline. This role is highly cross-functional, requiring close collaboration with data, product and engineering teams to ensure healthy portfolio performance.\n\n  \n\n### **What You’ll Do**\n\n  \n\n* Analyse portfolio performance, customer behavior, and key risk indicators across products and segments.\n* Utilize big data analytics to identify risk patterns and insights. Develop reports and dashboards to monitor risk metrics and performance and present insights to leadership\n* Optimize risk strategies and policies to support sustainable growth\n* Contribute to the design and rollout of new products and policies\n* Collaborate with cross-functional teams to support launches in new markets and verticals\n* Continuously seek to improve risk management processes and strategies through innovation and adopting best practices.\n\n### **What We’re Looking For**\n\n  \n\n* Bachelor’s or Master’s degree in Finance, Economics, Statistics, or a related field.\n* 2–4 years of experience in risk management, fraud analytics, or a related data-driven role preferably in the Fintech sector or related financial services.\n* Strong analytical skills and experience with SQL, Python or similar tools\n* Understanding of consumer lending, digital wallets, transfers and fintech risk models\n* Ability to work independently and in a fast-paced, high-growth environment\n* Excellent communication and interpersonal skills, with the ability to convey complex information clearly and concisely.\n\n### **Job Benefits**\n\n**Locations**\n\nWe hire candidates based within **four hours of Dubai time**, with remote work available in eligible locations. Depending on your circumstances, we can also discuss an individual relocation plan to our hubs in Armenia, Georgia, Serbia, Poland, and Spain.  \n  \n**What you can expect**\n\n* Flexible working hours, coordinated with your team and the needs of your role.\n* Autonomy and responsibility from day one.\n* Opportunities to grow through the quality and impact of your work.\n* AI Allowance to your preferred tools\n* Participation in our employee stock option program.\n\nWe’re committed to an inclusive, high-performing workplace where people from different backgrounds have the support to grow and achieve their goals.\n\nIf this sounds like the right opportunity for you, we’d love to hear from you.\n\n  \n\n### **About Tabby**\n\nTabby creates financial freedom in the way people shop, earn and save, by reshaping their relationship with money.  \n  \nThe company’s flagship offering allows shoppers to split their payments online and in-store with no interest or fees. Over 32,000 global brands and small businesses, including Amazon, Noon, IKEA and Shein use Tabby to accelerate growth and gain loyal customers by offering easy and flexible payments online and in stores.  \n  \nTabby has generated over $7 billion in transaction volume for its partner brands and has the highest rated, most reviewed, largest and fastest growing app of any fintech in the GCC region.  \n  \nTabby launched operations in 2020 and has raised +$1 billion in equity and debt funding from global and regional investors.",
+      "salary": "",
+      "salary_source": "",
+      "salary_currency": "",
+      "job_type": "fulltime",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "emails": "",
+      "ats": "Indeed"
+    }
+  ],
+  "new_jobs": [
+    {
+      "company": "BlackStone eIT",
+      "title": "Program / Portfolio Manager",
+      "location": "مدينة نصر, C, Egypt",
+      "url": "https://eg.indeed.com/viewjob?jk=9fadaf19698ce77a",
+      "direct_url": "https://apply.workable.com/j/427E100920",
+      "company_url": "https://eg.indeed.com/cmp/Blackstone-Eit",
+      "date_posted": "2026-10-30",
+      "description": "*Key Responsibilities*\n\n* *Lead, mentor, and manage a team of Project Managers, ensuring accountability and consistent delivery practices.*\n* *Directly manage and deliver assigned projects end-to-end, from initiation and planning through execution, deployment, and closure.*\n* *Oversee portfolio planning, resource allocation, prioritization, and capacity management.*\n* *Monitor project performance, risks, dependencies, budgets, and delivery KPIs.*\n* *Manage escalations and drive resolution of critical delivery issues.*\n* *Ensure consistent project governance, reporting, and compliance with delivery methodologies.*\n* *Coordinate with senior management, clients, and internal departments to align priorities and expectations.*\n* *Drive continuous improvement across project management practices and delivery performance.*\n\n  \n**Requirements**  \n\n* *Proven experience managing multiple projects and leading Project Managers.*\n* *Demonstrated ability to lead and deliver complex projects independently.*\n* *Strong expertise in project governance, portfolio management, risk management, and resource planning.*\n* *Excellent leadership, communication, stakeholder management, and problem-solving skills.*\n* *Ability to manage competing priorities and drive results across multiple teams.*",
+      "salary": "",
+      "salary_source": "",
+      "salary_currency": "",
+      "job_type": "",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "emails": "",
+      "ats": "Indeed"
+    },
+    {
+      "company": "Tabby",
+      "title": "Risk Analyst",
+      "location": "Egypt",
+      "url": "https://eg.indeed.com/viewjob?jk=fcdfa6990581eb6e",
+      "direct_url": "https://tabby.pinpointhq.com/postings/9a7e39c9-e0fb-4a9f-84e2-3115f2c7d9e1?utm_medium=job_board&utm_source=indeed",
+      "company_url": "https://eg.indeed.com/cmp/Tabby",
+      "date_posted": "2026-10-30",
+      "description": "### **Description**\n\n**About tabby**  \n  \nTabby is on a mission to give people power over their money. For too long, financial systems have worked for the institutions that built them, not the people using them. Runaway interest, fine print and limited access have left many behind, feeling shut out of a system that wasn't setting them up for success.  \n  \nWe're building a different kind of system—in a complete money app to send, spend and save. One that's clear, flexible and puts people and businesses in control. Founded in 2019, we serve customers and businesses across Saudi Arabia, the United Arab Emirates and Kuwait. Millions of customers and 65,000 global brands, government services and small businesses rely on us today.  \n  \nWhat began as a better way to pay at checkout has grown into a financial system working the way it should have all along.  \n  \n**About the Role**\n\nAs a Risk Analyst at Tabby, you will play a key role in analysing risk performance and contributing to the risk strategy across our products. You will work with large datasets to identify trends, monitor portfolio performance, and support data-driven decisions that balance growth with risk discipline. This role is highly cross-functional, requiring close collaboration with data, product and engineering teams to ensure healthy portfolio performance.\n\n  \n\n### **What You’ll Do**\n\n  \n\n* Analyse portfolio performance, customer behavior, and key risk indicators across products and segments.\n* Utilize big data analytics to identify risk patterns and insights. Develop reports and dashboards to monitor risk metrics and performance and present insights to leadership\n* Optimize risk strategies and policies to support sustainable growth\n* Contribute to the design and rollout of new products and policies\n* Collaborate with cross-functional teams to support launches in new markets and verticals\n* Continuously seek to improve risk management processes and strategies through innovation and adopting best practices.\n\n### **What We’re Looking For**\n\n  \n\n* Bachelor’s or Master’s degree in Finance, Economics, Statistics, or a related field.\n* 2–4 years of experience in risk management, fraud analytics, or a related data-driven role preferably in the Fintech sector or related financial services.\n* Strong analytical skills and experience with SQL, Python or similar tools\n* Understanding of consumer lending, digital wallets, transfers and fintech risk models\n* Ability to work independently and in a fast-paced, high-growth environment\n* Excellent communication and interpersonal skills, with the ability to convey complex information clearly and concisely.\n\n### **Job Benefits**\n\n**Locations**\n\nWe hire candidates based within **four hours of Dubai time**, with remote work available in eligible locations. Depending on your circumstances, we can also discuss an individual relocation plan to our hubs in Armenia, Georgia, Serbia, Poland, and Spain.  \n  \n**What you can expect**\n\n* Flexible working hours, coordinated with your team and the needs of your role.\n* Autonomy and responsibility from day one.\n* Opportunities to grow through the quality and impact of your work.\n* AI Allowance to your preferred tools\n* Participation in our employee stock option program.\n\nWe’re committed to an inclusive, high-performing workplace where people from different backgrounds have the support to grow and achieve their goals.\n\nIf this sounds like the right opportunity for you, we’d love to hear from you.\n\n  \n\n### **About Tabby**\n\nTabby creates financial freedom in the way people shop, earn and save, by reshaping their relationship with money.  \n  \nThe company’s flagship offering allows shoppers to split their payments online and in-store with no interest or fees. Over 32,000 global brands and small businesses, including Amazon, Noon, IKEA and Shein use Tabby to accelerate growth and gain loyal customers by offering easy and flexible payments online and in stores.  \n  \nTabby has generated over $7 billion in transaction volume for its partner brands and has the highest rated, most reviewed, largest and fastest growing app of any fintech in the GCC region.  \n  \nTabby launched operations in 2020 and has raised +$1 billion in equity and debt funding from global and regional investors.",
+      "salary": "",
+      "salary_source": "",
+      "salary_currency": "",
+      "job_type": "fulltime",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "emails": "",
+      "ats": "Indeed"
+    }
+  ]
 }
