@@ -1,6 +1,8 @@
 # 🔥 LinkedIn — Sarah Finance Roles
-*Last updated: 2026-10-30 01:07 UTC*
+*Last updated: 2026-10-30 06:19 UTC*
 
-**0 new role(s)** since last run · 0 total in last 1h
+**1 new role(s)** since last run · 1 total in last 1h
 
-No new roles since the last run.
+### [Senior Financial Analyst](https://www.linkedin.com/jobs/view/4483419329/) — Anmattsa
+- 📍 **Location:** Al Khobar, Eastern, Saudi Arabia
+- 🕒 **Posted:** 2026-10-30
