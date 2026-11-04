@@ -1,26 +1,7 @@
 {
-  "scraped_at": "2026-11-04 08:00 UTC",
-  "total": 1,
+  "scraped_at": "2026-11-04 09:45 UTC",
+  "total": 0,
   "new_count": 0,
-  "jobs": [
-    {
-      "company": "AWS Investment Group LLC",
-      "title": "Hiring - Financial Analyst",
-      "location": "Dubai, DU, United Arab Emirates",
-      "url": "https://ae.indeed.com/viewjob?jk=03746242a09b4dce",
-      "direct_url": "",
-      "company_url": "https://ae.indeed.com/cmp/Aws-Investment-Group-LLC",
-      "date_posted": "2026-11-03",
-      "description": "**Job Summary:**\n\n* Minimum 3–5 years of experience in financial analytics, Finance MIS, internal audit, or internal controls.\n* Practical experience in Power BI dashboards, advanced Excel, and ERP reporting.\n* Good understanding of accounting processes, internal controls, risk assessments, and financial reporting.\n* Experience in FMCG, distribution, trading, or multi-entity organisations preferred.\n* Exposure to internal audit testing, process reviews, and SOP compliance assessments will be an advantage.\n\n**Educational Qualifications**:\n\n* Bachelor's degree in Accounting, Finance, Business Analytics, or a related discipline.\n* ACCA, CMA, CIMA, CIA, or equivalent professional qualifications will be an advantage.\n* Certification in Power BI, SQL, Data Analytics, or Internal Auditing will be preferred.\n\nApplication Question(s):\n\n* Current Salary:\n* Expected Salary:\n* Relevant UAE Experience (in years):\n* Total Experience (in years):\n* Notice Period:\n* Visa Type:\n\nWork Location: In person",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "",
-      "job_type": "fulltime",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed"
-    }
-  ],
+  "jobs": [],
   "new_jobs": []
 }
