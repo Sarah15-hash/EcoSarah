@@ -1,6 +1,8 @@
 # 🔥 LinkedIn — Sarah Finance Roles
-*Last updated: 2026-11-09 07:08 UTC*
+*Last updated: 2026-11-09 23:51 UTC*
 
-**0 new role(s)** since last run · 1 total in last 1h
+**1 new role(s)** since last run · 1 total in last 1h
 
-No new roles since the last run.
+### [Investment Portfolio Manager – Multi-Asset](https://www.linkedin.com/jobs/view/4487411831/) — Cooper Fitch
+- 📍 **Location:** Riyadh, Saudi Arabia
+- 🕒 **Posted:** 2026-11-09
