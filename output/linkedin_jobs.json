@@ -1,27 +1,7 @@
 {
-  "scraped_at": "2026-11-10 07:32 UTC",
-  "total": 1,
-  "new_count": 1,
-  "jobs": [
-    {
-      "company": "Al Tayer Group",
-      "title": "Investment Analyst - Private Markets",
-      "location": "Dubai, United Arab Emirates",
-      "url": "https://www.linkedin.com/jobs/view/4487444843/",
-      "date_posted": "2026-11-10",
-      "salary": "",
-      "ats": "LinkedIn"
-    }
-  ],
-  "new_jobs": [
-    {
-      "company": "Al Tayer Group",
-      "title": "Investment Analyst - Private Markets",
-      "location": "Dubai, United Arab Emirates",
-      "url": "https://www.linkedin.com/jobs/view/4487444843/",
-      "date_posted": "2026-11-10",
-      "salary": "",
-      "ats": "LinkedIn"
-    }
-  ]
+  "scraped_at": "2026-11-10 21:22 UTC",
+  "total": 0,
+  "new_count": 0,
+  "jobs": [],
+  "new_jobs": []
 }
