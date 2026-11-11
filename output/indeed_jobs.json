@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-11-11 08:16 UTC",
+  "scraped_at": "2026-11-11 08:23 UTC",
   "total": 2,
-  "new_count": 2,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Storeys Real Estate",
@@ -40,42 +40,5 @@
       "ats": "Indeed"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Storeys Real Estate",
-      "title": "Portfolio Manager",
-      "location": "Dubai, DU, United Arab Emirates",
-      "url": "https://ae.indeed.com/viewjob?jk=51badf9fa410e8fd",
-      "direct_url": "",
-      "company_url": "https://ae.indeed.com/cmp/Storeys-Real-Estate",
-      "date_posted": "2026-11-11",
-      "description": "**Investment Manager | Dubai, UAE**\n\nWe are seeking highly motivated and results-driven professionals to join our team as **Investment Managers**.\n\n**Preferred Candidate Profile**\n\n✔ Experience in **EdTech, Banking, Real Estate, Financial Services, Insurance, or Direct Sales**  \n✔ Proven experience in **Cold Calling, Lead Generation, and Client Acquisition**  \n✔ Excellent Communication and Negotiation Skills  \n✔ Target-Oriented and Performance-Driven Mindset  \n✔ Must be in **Dubai, UAE**  \n✔ Ability to build and maintain strong client relationships\n\n✔ UAE experience is **MANDATORY**\n\n**What We Offer**\n\n✅ Competitive Fixed Salary + Attractive Incentives  \n✅ Unlimited Leads  \n✅ Employment Visa from Day One  \n✅ Medical Insurance  \n✅ Emirates ID Processing  \n✅ Transportation Support  \n✅ Comprehensive Training & Career Growth Opportunities  \n✅ Strong Management & Leadership Support\n\n**Why Join Storeys Real Estate?**\n\nAt Storeys Real Estate, we believe that our people are our greatest asset. We provide a supportive, high-performance environment where ambitious professionals can grow, succeed, and build rewarding careers in Dubai's dynamic real estate market.\n\nOur achievements include:\n\n* **Certified Great Place to Work®**\n* **Ranked #4 among the Best Workplaces in the Middle East**\n* **Ranked #1 among Aldar's top-performing brokerages**\n* **Ranked #4 among Arada's top-performing brokerages**\n* Industry-leading training, management support, and high-quality leads to help you succeed\n\nWe look forward to meeting you and discussing how you can become part of our growing team\n\nPay: AED5,000.00 per month\n\nApplication Question(s):\n\n* How old are you?\n\nWork Location: In person",
-      "salary": "$5000/mo",
-      "salary_source": "direct_data",
-      "salary_currency": "AED",
-      "job_type": "fulltime",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed"
-    },
-    {
-      "company": "Casamount Real Estate",
-      "title": "Business Development Executive/Portfolio Manager",
-      "location": "Dubai, DU, United Arab Emirates",
-      "url": "https://ae.indeed.com/viewjob?jk=84ddfa8eca2de3c9",
-      "direct_url": "",
-      "company_url": "https://ae.indeed.com/cmp/Casamount-Real-Estate",
-      "date_posted": "2026-11-11",
-      "description": "Real Estate Sales Executive\n\n**Casamount Real Estate** is a Dubai-based real estate company specializing in premium residential and investment opportunities across **Dubai and India**.\n\nWe are looking for a **motivated, confident, and target-driven Real Estate Sales Executive** to join our growing team.\n\n**Key Responsibilities**\n\n* Handle leads, calls, client enquiries, and follow-ups.\n* Understand client requirements and recommend suitable properties.\n* Present Dubai and India property opportunities to potential buyers and investors.\n* Build and maintain strong client relationships.\n* Negotiate and convert leads into successful sales.\n\n**Requirements**\n\n* Strong communication and interpersonal skills.\n* Confident and persuasive sales approach.\n* Target-driven and self-motivated.\n* Good negotiation and follow-up skills.\n* Previous sales or real estate experience preferred.\n* Dubai real estate experience is an advantage.\n\nPay: AED2,000.00 - AED4,000.00 per month\n\nApplication Question(s):\n\n* Why Specifically Real Estate ?\n\nEducation:\n\n* High school or equivalent (Preferred)\n\nExperience:\n\n* Real estate Sales: 1 year (Required)\n* Sales: 2 years (Required)\n\nLanguage:\n\n* English (Required)\n\nLocation:\n\n* Dubai (Required)\n\nWork Location: In person",
-      "salary": "$2000–$4000/mo",
-      "salary_source": "direct_data",
-      "salary_currency": "AED",
-      "job_type": "fulltime, internship",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed"
-    }
-  ]
+  "new_jobs": []
 }
