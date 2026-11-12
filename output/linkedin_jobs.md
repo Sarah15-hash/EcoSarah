@@ -1,6 +1,8 @@
 # 🔥 LinkedIn — Sarah Finance Roles
-*Last updated: 2026-11-12 11:28 UTC*
+*Last updated: 2026-11-12 21:52 UTC*
 
-**0 new role(s)** since last run · 0 total in last 1h
+**1 new role(s)** since last run · 1 total in last 1h
 
-No new roles since the last run.
+### [Senior Portfolio Manager](https://www.linkedin.com/jobs/view/4489283702/) — Metrics Recruitment
+- 📍 **Location:** Abu Dhabi Emirate, United Arab Emirates
+- 🕒 **Posted:** 2026-11-12
