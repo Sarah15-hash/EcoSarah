@@ -1,9 +1,10 @@
 # 🟦 Indeed — Sarah Finance Roles
-*Last updated: 2026-11-12 21:55 UTC*
+*Last updated: 2026-11-13 02:52 UTC*
 
-**1 new role(s)** since last run · 1 total in last 24h
+**1 new role(s)** since last run · 2 total in last 24h
 
-### [Credit Cards Portfolio Manager](https://ae.indeed.com/viewjob?jk=1190922e8c720123) — Commercial Bank of Dubai
+### [Financial Analyst](https://ae.indeed.com/viewjob?jk=0f6dbbdd993cdff8) — Coach Transformation Academy
 - 📍 **Location:** Dubai, DU, United Arab Emirates
+- 💰 **Salary:** $3000/mo
 - **Work mode:** On-site
 - 🕒 **Posted:** 2026-11-12
