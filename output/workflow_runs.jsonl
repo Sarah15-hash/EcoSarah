@@ -4990,3 +4990,4 @@
 {"job_count": 0, "run_attempt": "1", "run_id": "44196116486", "timestamp": "2026-11-17T23:06:42Z", "workflow": "linkedin"}
 {"job_count": 0, "run_attempt": "1", "run_id": "44196353134", "timestamp": "2026-11-17T23:07:21Z", "workflow": "indeed"}
 {"job_count": 0, "run_attempt": "1", "run_id": "44196798665", "timestamp": "2026-11-17T23:09:45Z", "workflow": "indeed"}
+{"job_count": 1, "run_attempt": "1", "run_id": "44237556386", "timestamp": "2026-11-18T04:33:16Z", "workflow": "linkedin"}
