@@ -1,6 +1,11 @@
 # 🟦 Indeed — Sarah Finance Roles
-*Last updated: 2026-11-19 04:27 UTC*
+*Last updated: 2026-11-19 22:45 UTC*
 
-**0 new role(s)** since last run · 3 total in last 24h
+**1 new role(s)** since last run · 1 total in last 24h
 
-No new roles since the last run.
+### [Portfolio Manager (Pure Real Estate Sale)](https://ae.indeed.com/viewjob?jk=0c1f4b1eac6af8f2) — Storeys Real Estate
+- 📍 **Location:** Dubai, DU, United Arab Emirates
+- 💰 **Salary:** $5000/mo
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-11-19
