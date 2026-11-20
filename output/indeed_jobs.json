@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-11-20 22:20 UTC",
+  "scraped_at": "2026-11-20 22:21 UTC",
   "total": 2,
-  "new_count": 2,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Storeys Real Estate",
@@ -40,42 +40,5 @@
       "ats": "Indeed"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Storeys Real Estate",
-      "title": "Portfolio Manager",
-      "location": "Dubai, DU, United Arab Emirates",
-      "url": "https://ae.indeed.com/viewjob?jk=b8002105441f2aa3",
-      "direct_url": "",
-      "company_url": "https://ae.indeed.com/cmp/Storeys-Real-Estate",
-      "date_posted": "2026-11-20",
-      "description": "We are seeking hWe are looking for a **young, energetic Property Consultant** with **UAE real estate sales experience** and strong **cold‑calling skills**. Career growth opportunities in a fast-growing real estate company.\n\n**Preferred Candidate Profile**\n\n✔ Experience in Real Estate, EdTech, Banking, Financial Services, Insurance, or Direct Sales\n\n✔ Proven experience in Cold Calling, Lead Generation, and Client Acquisition\n\n✔ Excellent Communication and Negotiation Skills\n\n✔ Target-Oriented and Performance-Driven Mindset\n\n✔ Willing to Relocate to Dubai, UAE\n\n✔ Ability to build and maintain strong client relationships  \n✔ Age **below 30** preferred\n\n**What We Offer**\n\n✅ Competitive Fixed Salary + Attractive Incentives\n\n✅ Premium & Qualified Leads\n\n✅ Employment Visa from Day One\n\n✅ Medical Insurance\n\n✅ Transportation Support\n\n✅ Comprehensive Training & Career Growth Opportunities\n\n✅ Strong Management & Leadership Support\n\nApplication Question(s):\n\n* How old are you?\n\nWork Location: In person",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "",
-      "job_type": "",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed"
-    },
-    {
-      "company": "AWS Investment Group LLC",
-      "title": "Financial Analyst",
-      "location": "Dubai, DU, United Arab Emirates",
-      "url": "https://ae.indeed.com/viewjob?jk=b0d1c556b4016f25",
-      "direct_url": "",
-      "company_url": "https://ae.indeed.com/cmp/Aws-Investment-Group-LLC",
-      "date_posted": "2026-11-20",
-      "description": "**Job Summary:**\n\n* Minimum 3–5 years of experience in financial analytics, Finance MIS, internal audit, or internal controls.\n* Practical experience in Power BI dashboards, advanced Excel, and ERP reporting.\n* Good understanding of accounting processes, internal controls, risk assessments, and financial reporting.\n* Experience in FMCG, distribution, trading, or multi-entity organisations preferred.\n* Exposure to internal audit testing, process reviews, and SOP compliance assessments will be an advantage.\n\n**Educational Qualifications**:\n\n* Bachelor's degree in Accounting, Finance, Business Analytics, or a related discipline.\n* ACCA, CMA, CIMA, CIA, or equivalent professional qualifications will be an advantage.\n* Certification in Power BI, SQL, Data Analytics, or Internal Auditing will be preferred.\n\nApplication Question(s):\n\n* Current Salary:\n* Expected Salary:\n* Relevant UAE Experience (in years):\n* Total Experience (in years):\n* Notice Period:\n* Visa Type:\n\nWork Location: In person",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "",
-      "job_type": "fulltime",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed"
-    }
-  ]
+  "new_jobs": []
 }
