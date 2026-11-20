@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-11-19 22:45 UTC",
+  "scraped_at": "2026-11-20 03:44 UTC",
   "total": 1,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Storeys Real Estate",
@@ -22,24 +22,5 @@
       "ats": "Indeed"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Storeys Real Estate",
-      "title": "Portfolio Manager (Pure Real Estate Sale)",
-      "location": "Dubai, DU, United Arab Emirates",
-      "url": "https://ae.indeed.com/viewjob?jk=0c1f4b1eac6af8f2",
-      "direct_url": "",
-      "company_url": "https://ae.indeed.com/cmp/Storeys-Real-Estate",
-      "date_posted": "2026-11-19",
-      "description": "**Investment Manager | Dubai, UAE**\n\nWe are seeking highly motivated and results-driven professionals to join our team as **Investment Managers**.\n\n**Preferred Candidate Profile**\n\n✔ Experience in **EdTech, Banking, Real Estate, Financial Services, Insurance, or Direct Sales**  \n✔ Proven experience in **Cold Calling, Lead Generation, and Client Acquisition**  \n✔ Excellent Communication and Negotiation Skills  \n✔ Target-Oriented and Performance-Driven Mindset  \n✔ Must be in **Dubai, UAE**  \n✔ Ability to build and maintain strong client relationships\n\n✔ UAE experience is **MANDATORY**\n\n**What We Offer**\n\n✅ Competitive Fixed Salary + Attractive Incentives  \n✅ Unlimited Leads  \n✅ Employment Visa from Day One  \n✅ Medical Insurance  \n✅ Emirates ID Processing  \n✅ Transportation Support  \n✅ Comprehensive Training & Career Growth Opportunities  \n✅ Strong Management & Leadership Support\n\n**Why Join Storeys Real Estate?**\n\nAt Storeys Real Estate, we believe that our people are our greatest asset. We provide a supportive, high-performance environment where ambitious professionals can grow, succeed, and build rewarding careers in Dubai's dynamic real estate market.\n\nOur achievements include:\n\n* **Certified Great Place to Work®**\n* **Ranked #4 among the Best Workplaces in the Middle East**\n* **Ranked #1 among Aldar's top-performing brokerages**\n* **Ranked #4 among Arada's top-performing brokerages**\n* Industry-leading training, management support, and high-quality leads to help you succeed\n\nWe look forward to meeting you and discussing how you can become part of our growing team\n\nPay: AED5,000.00 per month\n\nApplication Question(s):\n\n* How old are you?\n\nWork Location: In person",
-      "salary": "$5000/mo",
-      "salary_source": "direct_data",
-      "salary_currency": "AED",
-      "job_type": "fulltime",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed"
-    }
-  ]
+  "new_jobs": []
 }
