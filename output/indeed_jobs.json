@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-11-21 11:39 UTC",
+  "scraped_at": "2026-11-21 11:47 UTC",
   "total": 2,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Keystone Global Real Estate",
@@ -40,24 +40,5 @@
       "ats": "Indeed"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Keystone Global Real Estate",
-      "title": "Portfolio Managers",
-      "location": "Dubai, DU, United Arab Emirates",
-      "url": "https://ae.indeed.com/viewjob?jk=4554c4082a72e8c6",
-      "direct_url": "",
-      "company_url": "https://ae.indeed.com/cmp/Keystone-Global-Real-Estate",
-      "date_posted": "2026-11-20",
-      "description": "BUILD YOUR REAL ESTATE CAREER IN DUBAI!\n\nAre you in India and looking for an exciting opportunity in Dubai’s booming real estate market?\n\nWe are HIRING CANDIDATES FROM INDIA.\n\nWho Can Apply?\n\n* 6 Months – 2 Years of Real Estate Experience\n* Strong Communication & Sales Skills\n* Passion for Real Estate\n* Willingness to Relocate to Dubai\n\nWhat We Offer:\n\n* Competitive Salary\n* Employment Visa\n* Commission\n* Good communication skills in English and Hindi.\n\nThis is your chance to take your real estate career from India to Dubai!\n\nInterested candidates can share their updated CV at hr@keyestone.ae.\n\nPay: AED2,000.00 - AED5,000.00 per month\n\nWork Location: In person",
-      "salary": "$2000–$5000/mo",
-      "salary_source": "direct_data",
-      "salary_currency": "AED",
-      "job_type": "fulltime",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "hr@keyestone.ae",
-      "ats": "Indeed"
-    }
-  ]
+  "new_jobs": []
 }
