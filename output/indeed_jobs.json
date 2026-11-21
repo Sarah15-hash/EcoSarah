@@ -1,24 +1,24 @@
 {
-  "scraped_at": "2026-11-21 03:28 UTC",
+  "scraped_at": "2026-11-21 11:39 UTC",
   "total": 2,
-  "new_count": 0,
+  "new_count": 1,
   "jobs": [
     {
-      "company": "Storeys Real Estate",
-      "title": "Portfolio Manager",
+      "company": "Keystone Global Real Estate",
+      "title": "Portfolio Managers",
       "location": "Dubai, DU, United Arab Emirates",
-      "url": "https://ae.indeed.com/viewjob?jk=b8002105441f2aa3",
+      "url": "https://ae.indeed.com/viewjob?jk=4554c4082a72e8c6",
       "direct_url": "",
-      "company_url": "https://ae.indeed.com/cmp/Storeys-Real-Estate",
+      "company_url": "https://ae.indeed.com/cmp/Keystone-Global-Real-Estate",
       "date_posted": "2026-11-20",
-      "description": "We are seeking hWe are looking for a **young, energetic Property Consultant** with **UAE real estate sales experience** and strong **cold‑calling skills**. Career growth opportunities in a fast-growing real estate company.\n\n**Preferred Candidate Profile**\n\n✔ Experience in Real Estate, EdTech, Banking, Financial Services, Insurance, or Direct Sales\n\n✔ Proven experience in Cold Calling, Lead Generation, and Client Acquisition\n\n✔ Excellent Communication and Negotiation Skills\n\n✔ Target-Oriented and Performance-Driven Mindset\n\n✔ Willing to Relocate to Dubai, UAE\n\n✔ Ability to build and maintain strong client relationships  \n✔ Age **below 30** preferred\n\n**What We Offer**\n\n✅ Competitive Fixed Salary + Attractive Incentives\n\n✅ Premium & Qualified Leads\n\n✅ Employment Visa from Day One\n\n✅ Medical Insurance\n\n✅ Transportation Support\n\n✅ Comprehensive Training & Career Growth Opportunities\n\n✅ Strong Management & Leadership Support\n\nApplication Question(s):\n\n* How old are you?\n\nWork Location: In person",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "",
-      "job_type": "",
+      "description": "BUILD YOUR REAL ESTATE CAREER IN DUBAI!\n\nAre you in India and looking for an exciting opportunity in Dubai’s booming real estate market?\n\nWe are HIRING CANDIDATES FROM INDIA.\n\nWho Can Apply?\n\n* 6 Months – 2 Years of Real Estate Experience\n* Strong Communication & Sales Skills\n* Passion for Real Estate\n* Willingness to Relocate to Dubai\n\nWhat We Offer:\n\n* Competitive Salary\n* Employment Visa\n* Commission\n* Good communication skills in English and Hindi.\n\nThis is your chance to take your real estate career from India to Dubai!\n\nInterested candidates can share their updated CV at hr@keyestone.ae.\n\nPay: AED2,000.00 - AED5,000.00 per month\n\nWork Location: In person",
+      "salary": "$2000–$5000/mo",
+      "salary_source": "direct_data",
+      "salary_currency": "AED",
+      "job_type": "fulltime",
       "is_remote": false,
       "work_arrangement": "On-site",
-      "emails": "",
+      "emails": "hr@keyestone.ae",
       "ats": "Indeed"
     },
     {
@@ -40,5 +40,24 @@
       "ats": "Indeed"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "Keystone Global Real Estate",
+      "title": "Portfolio Managers",
+      "location": "Dubai, DU, United Arab Emirates",
+      "url": "https://ae.indeed.com/viewjob?jk=4554c4082a72e8c6",
+      "direct_url": "",
+      "company_url": "https://ae.indeed.com/cmp/Keystone-Global-Real-Estate",
+      "date_posted": "2026-11-20",
+      "description": "BUILD YOUR REAL ESTATE CAREER IN DUBAI!\n\nAre you in India and looking for an exciting opportunity in Dubai’s booming real estate market?\n\nWe are HIRING CANDIDATES FROM INDIA.\n\nWho Can Apply?\n\n* 6 Months – 2 Years of Real Estate Experience\n* Strong Communication & Sales Skills\n* Passion for Real Estate\n* Willingness to Relocate to Dubai\n\nWhat We Offer:\n\n* Competitive Salary\n* Employment Visa\n* Commission\n* Good communication skills in English and Hindi.\n\nThis is your chance to take your real estate career from India to Dubai!\n\nInterested candidates can share their updated CV at hr@keyestone.ae.\n\nPay: AED2,000.00 - AED5,000.00 per month\n\nWork Location: In person",
+      "salary": "$2000–$5000/mo",
+      "salary_source": "direct_data",
+      "salary_currency": "AED",
+      "job_type": "fulltime",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "emails": "hr@keyestone.ae",
+      "ats": "Indeed"
+    }
+  ]
 }

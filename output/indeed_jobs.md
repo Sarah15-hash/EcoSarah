@@ -1,6 +1,11 @@
 # 🟦 Indeed — Sarah Finance Roles
-*Last updated: 2026-11-21 03:28 UTC*
+*Last updated: 2026-11-21 11:39 UTC*
 
-**0 new role(s)** since last run · 2 total in last 24h
+**1 new role(s)** since last run · 2 total in last 24h
 
-No new roles since the last run.
+### [Portfolio Managers](https://ae.indeed.com/viewjob?jk=4554c4082a72e8c6) — Keystone Global Real Estate
+- 📍 **Location:** Dubai, DU, United Arab Emirates
+- 💰 **Salary:** $2000–$5000/mo
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-11-20
