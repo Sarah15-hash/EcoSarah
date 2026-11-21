@@ -1,44 +1,7 @@
 {
-  "scraped_at": "2026-11-21 11:47 UTC",
-  "total": 2,
+  "scraped_at": "2026-11-21 21:01 UTC",
+  "total": 0,
   "new_count": 0,
-  "jobs": [
-    {
-      "company": "Keystone Global Real Estate",
-      "title": "Portfolio Managers",
-      "location": "Dubai, DU, United Arab Emirates",
-      "url": "https://ae.indeed.com/viewjob?jk=4554c4082a72e8c6",
-      "direct_url": "",
-      "company_url": "https://ae.indeed.com/cmp/Keystone-Global-Real-Estate",
-      "date_posted": "2026-11-20",
-      "description": "BUILD YOUR REAL ESTATE CAREER IN DUBAI!\n\nAre you in India and looking for an exciting opportunity in Dubai’s booming real estate market?\n\nWe are HIRING CANDIDATES FROM INDIA.\n\nWho Can Apply?\n\n* 6 Months – 2 Years of Real Estate Experience\n* Strong Communication & Sales Skills\n* Passion for Real Estate\n* Willingness to Relocate to Dubai\n\nWhat We Offer:\n\n* Competitive Salary\n* Employment Visa\n* Commission\n* Good communication skills in English and Hindi.\n\nThis is your chance to take your real estate career from India to Dubai!\n\nInterested candidates can share their updated CV at hr@keyestone.ae.\n\nPay: AED2,000.00 - AED5,000.00 per month\n\nWork Location: In person",
-      "salary": "$2000–$5000/mo",
-      "salary_source": "direct_data",
-      "salary_currency": "AED",
-      "job_type": "fulltime",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "hr@keyestone.ae",
-      "ats": "Indeed"
-    },
-    {
-      "company": "AWS Investment Group LLC",
-      "title": "Financial Analyst",
-      "location": "Dubai, DU, United Arab Emirates",
-      "url": "https://ae.indeed.com/viewjob?jk=b0d1c556b4016f25",
-      "direct_url": "",
-      "company_url": "https://ae.indeed.com/cmp/Aws-Investment-Group-LLC",
-      "date_posted": "2026-11-20",
-      "description": "**Job Summary:**\n\n* Minimum 3–5 years of experience in financial analytics, Finance MIS, internal audit, or internal controls.\n* Practical experience in Power BI dashboards, advanced Excel, and ERP reporting.\n* Good understanding of accounting processes, internal controls, risk assessments, and financial reporting.\n* Experience in FMCG, distribution, trading, or multi-entity organisations preferred.\n* Exposure to internal audit testing, process reviews, and SOP compliance assessments will be an advantage.\n\n**Educational Qualifications**:\n\n* Bachelor's degree in Accounting, Finance, Business Analytics, or a related discipline.\n* ACCA, CMA, CIMA, CIA, or equivalent professional qualifications will be an advantage.\n* Certification in Power BI, SQL, Data Analytics, or Internal Auditing will be preferred.\n\nApplication Question(s):\n\n* Current Salary:\n* Expected Salary:\n* Relevant UAE Experience (in years):\n* Total Experience (in years):\n* Notice Period:\n* Visa Type:\n\nWork Location: In person",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "",
-      "job_type": "fulltime",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed"
-    }
-  ],
+  "jobs": [],
   "new_jobs": []
 }
