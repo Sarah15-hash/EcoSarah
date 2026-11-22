@@ -1,6 +1,11 @@
 # 🟦 Indeed — Sarah Finance Roles
-*Last updated: 2026-11-22 08:50 UTC*
+*Last updated: 2026-11-22 21:12 UTC*
 
-**0 new role(s)** since last run · 0 total in last 24h
+**1 new role(s)** since last run · 1 total in last 24h
 
-No new roles since the last run.
+### [Senior Financial Analyst](https://ae.indeed.com/viewjob?jk=d1f595b18ba2b45e) — INDEX Integrated Platform Company
+- 📍 **Location:** Dubai, DU, United Arab Emirates
+- 💰 **Salary:** $6200–$15k/mo
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-11-22
