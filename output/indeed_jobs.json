@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-11-24 02:32 UTC",
+  "scraped_at": "2026-11-24 02:35 UTC",
   "total": 2,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Atradius",
@@ -40,24 +40,5 @@
       "ats": "Indeed"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "مجموعة الطاير",
-      "title": "Financial Analyst",
-      "location": "Dubai, DU, United Arab Emirates",
-      "url": "https://ae.indeed.com/viewjob?jk=e873a43317c81a0a",
-      "direct_url": "https://hchx.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/4813",
-      "company_url": "https://ae.indeed.com/cmp/%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A9-%D8%A7%D9%84%D8%B7%D8%A7%D9%8A%D8%B1",
-      "date_posted": "2026-11-23",
-      "description": "Job Description: To provide support and advice to the management team on financial performance matters and assist in creating and implementing forecasting / budgeting tools and strategies that provide key stakeholders with relevant, accurate and timely management information which supports executive level decision making.\n\n  \n\nResponsibilities: Provide timely, relevant, and accurate reports and analysis of performance against historical, budgeted, and forecasted results to facilitate decision-making toward the achievement of the budget and strategic plan  \nProvision of business analysis and KPI management  \nAdopting a business partnering approach and providing essential financial advice and support to key stakeholders  \nEnsure business growth objectives are achieved through planning, coordination and production of budgets and forecasts in a timely manner  \nMaintain and develop financial models to aid planning processes, ensuring quality, accuracy, and focused analytical review  \nManage the successful delivery of process improvement initiatives by identifying non-value add activities and implementing solutions which create operational efficiencies across the business  \nResponsible for the preparation and execution of month end reporting tasks, ensuring the necessary information is provided in an accurate and timely manner i.e. MIS reporting  \nSupport the interim and year end audit process, liaising with external auditors and preparing and consolidating relevant information as required in a timely manner  \nPreparation of periodic reports for OEM requirements and compliance  \nEnsure processes and procedures are fully documented in a clear and concise manner and always maintained  \nSupport in the preparation of board presentations for management  \nPreparation of ad hoc reports and analysis as required by management  \nParticipate in the automation of processes and system implementation for Finance as a key project member (i.e. ERP, BI Tool)  \nManaging adhoc reports for OEM’s and internal stakeholders  \n* Work closely with the accounting team to ensure accurate financial reporting\n\n  \n\nQualifications: Bachelor’s / Master’s degree in Accounting or Finance  \nProfessional accounting qualification i.e. CMA, CIMA, ACCA, CPA, CA  \n4-5 years post qualification experience in a fast paced multinational organization  \n  \nPrevious experience in an analytical role advantageous  \n  \nKnowledge & Capabilities:  \n  \nExcellent MS Office software proficiency: strong Excel skills required  \nThorough understanding of International Financial Reporting Standards (IFRS)  \nStrong analytical skills and attention to detail – financial modelling experience an advantage  \nIndependent worker and analytical thinker with the ability to conduct research, data analysis and resolve complex problems  \nAbility to multi-task and work in a challenging fast paced environment  \nExcellent organizational and time management skills with the ability to work confidently under pressure  \nExcellent written and verbal communication skills  \n* Strong work ethic, passionate and committed with an enthusiasm to drive change.",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "",
-      "job_type": "fulltime",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed"
-    }
-  ]
+  "new_jobs": []
 }
