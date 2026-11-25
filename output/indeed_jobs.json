@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-11-25 09:02 UTC",
+  "scraped_at": "2026-11-25 09:10 UTC",
   "total": 2,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Stylo",
@@ -40,24 +40,5 @@
       "ats": "Indeed"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Stylo",
-      "title": "Real Estate Portfolio Manager",
-      "location": "Dubai, DU, United Arab Emirates",
-      "url": "https://ae.indeed.com/viewjob?jk=0804e992c3024115",
-      "direct_url": "https://styloshoes.site/jobs/real-estate-portfolio-manager/",
-      "company_url": "https://ae.indeed.com/cmp/Stylo",
-      "date_posted": "2026-11-25",
-      "description": "**Job Description**\n-------------------\n\n* Identify suitable properties that meet the Bank’s operational requirements and coordinate activities related to leasing, purchasing, and selling real estate.\n* Develop proposals and supporting documentation concerning property sales, rentals, and management for review and approval by the Bank’s management.\n* Carry out approved decisions and initiatives related to real estate leasing, sales, and property management.\n* Maintain effective cooperation with real estate agencies, property valuation companies, and other relevant external partners.\n* Identify opportunities to reduce and optimize the Bank’s costs associated with renting and acquiring properties.\n* Contribute to the administration and ongoing management of the Bank’s real estate portfolio.\n  \n\n**Job Details Experience**\n--------------------------\n\n  \n\n* Good understanding of legislation and regulatory requirements governing real estate management, administration, and procurement activities within the banking sector.\n* Knowledge of real estate management practices, rental arrangements, and procedures for working with property valuation companies.\n* Proficiency in using computer applications and modern tools for processing and managing information.\n* Strong analytical abilities, including the capacity to review information, assess relevant details, and support well-informed decisions.\n* A responsible, diligent, and results-driven approach to work, with a strong focus on meeting objectives and maintaining a client-oriented mindset.\n  \n\nAbout Company:\n  \nSTYLO, We believe in innovation, excellence, and teamwork, offering a vibrant and fast-paced environment where talent is nurtured and growth is encouraged.Join us to be part of a brand that is shaping the future.\n\n**Job Category:** Office\n\n**Job Type:** Full Time\n\n**Job Location:** Dubai",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "",
-      "job_type": "fulltime",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed"
-    }
-  ]
+  "new_jobs": []
 }
