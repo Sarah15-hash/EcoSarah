@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-11-26 23:59 UTC",
+  "scraped_at": "2026-11-27 00:00 UTC",
   "total": 1,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "YUBI",
@@ -22,24 +22,5 @@
       "ats": "Indeed"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "YUBI",
-      "title": "Credit Analyst - Mortgages",
-      "location": "Dubai, DU, United Arab Emirates",
-      "url": "https://ae.indeed.com/viewjob?jk=207cce60169f1462",
-      "direct_url": "https://go-yubi.zohorecruit.in/jobs/careers/66789000041045407/Credit-Analyst---Mortgages?source=CareerSite",
-      "company_url": "https://ae.indeed.com/cmp/Yubi",
-      "date_posted": "2026-11-26",
-      "description": "**Job Information**\n-------------------\n\n* Company Yubi\n* Date Opened 11/26/2026\n* Job Type Full time\n* Industry Financial Services\n* City Dubai\n* State/Province Dubai\n* Country United Arab Emirates\n* Zip/Postal Code 337-1500\n\n**About Us**\n------------\n\nYubi stands for ubiquitous. But Yubi will also stand for transparency, collaboration, and the power of possibility.\n\nFrom being a disruptor in India’s debt market to marching towards global corporate markets from one product to one holistic product suite with seven products\n\nYubi is the place to unleash potential. Freedom, not fear. Avenues, not roadblocks. Opportunity, not obstacles.\n\n**Job Description**\n-------------------\n\n**Credit Analyst – Mortgages**\n\n**About Yubi MENA**\n\nYubi is the world’s only technology company powering the end-to-end debt lifecycle. In the UAE, Yubi Mortgage operates as a premier digital mortgage marketplace connecting residents, UAE nationals, and non-resident homebuyers with 25+ leading retail, Islamic, commercial, and digital banks. By combining AI-driven underwriting tools, Business Rules Engines (BRE), and dedicated relationship management, we make home financing faster, simpler, and fully transparent.\n\n**Role Summary**\n\nWe are looking for a detail-oriented Credit Analyst to join our Mortgage team in Dubai. Acting as the critical analytical and operational bridge between Yubi’s Relationship Managers (RMs), homebuyers, and our 25+ partner banks, you will evaluate borrower creditworthiness, verify mortgage application dockets, ensure strict compliance with UAE Central Bank (CBUAE) and partner lender policies, and drive smooth loan processing from pre-approval through to disbursement and registration.\n\n**Key Responsibilities**\n\n**1. Credit Assessment & Underwriting Support**\n\n* Evaluate incoming retail and commercial mortgage applications (salaried, self-employed, resident, and non-resident profiles) against partner bank credit policies and Yubi’s Business Rules Engine (BRE) criteria.\n* Calculate Debt Burden Ratios (DBR), Loan-to-Value (LTV) limits, net disposable income, and affordability metrics in alignment with CBUAE mortgage regulations.\n* Analyze bank statements, AECB (Al Etihad Credit Bureau) credit reports, income proofs, and financial statements to identify credit risks, liabilities, or red flags early in the lifecycle.\n* Draft accurate, structured Credit Appraisal Memoranda (CAMs) and recommend optimal partner lenders to RMs to maximize approval conversion rates.\n\n**2. Document Scrutiny & Non-Discrepancy Verification**\n\n* Conduct thorough pre-sanction and post-sanction scrutiny of loan files, including KYC documents, Emirates ID/passports, salary certificates, trade licenses, property valuation reports, Memoranda of Understanding (MOUs), and Title Deeds/Oqood.\n* Maintain a high first-time-right (non-discrepancy) submission rate by screening files for completeness and accuracy before submission to partner banks.\n* Follow up proactively with RMs and borrowers to resolve pending documents, lender queries, and sanction conditions within defined Turnaround Times (TAT) and SLAs.\n\n**3. Disbursement, Islamic & Conventional Fulfilment Coordination**\n\n* Support post-approval execution across both conventional mortgages and Islamic home finance structures (such as Ijarah and Murabaha), ensuring all security documents (PDCs, manager's cheques, settlement letters, and NOCs) are verified.\n* Coordinate seamlessly with partner bank credit/operations teams, legal teams, developers, and trustees to track cases from Offer Letter issuance to final disbursement and DLD/municipality mortgage registration.\n* Track Post-Disbursal Documents (PDD) and ensure timely closure of compliance requirements.\n\n**4. MIS Reporting, Compliance & Platform Excellence**\n\n* Maintain accurate application trackers, CRM updates, and daily Management Information Systems (MIS) reports covering pipeline status, approval ratios, discrepancy trends, and TAT performance.\n* Ensure 100% adherence to UAE AML/KYC guidelines, internal Delegation of Authority (DOA) matrices, and partner bank regulatory standards.\n* Provide feedback to Yubi’s Product and Tech teams to improve automated document classification, OCR accuracy, and BRE matching workflows.\n\n**Qualifications & Experience**\n\n* Education: Bachelor’s degree in Finance, Commerce, Accounting, Banking, Economics, or a related discipline (MBA/CA Inter/CFA Level 1 is a plus).\n* Experience: 2 to 5 years of hands-on experience in mortgage credit underwriting, home finance operations, or retail loan processing within a UAE bank, mortgage brokerage, or fintech lender.\n\nDomain Knowledge: Solid understanding of UAE mortgage products (resident/non-resident home loans, buyouts/equity release, commercial mortgages), CBUAE DBR/LTV guidelines, and both conventional and Islamic (Ijarah) financing workflows.\n\n* Technical Skills: High proficiency in Microsoft Excel (financial calculations, VLOOKUP, pivot tables), CRM/Loan Origination Systems (LOS), and AI-assisted document review tools.\n* Core Competencies: Sharp analytical eye for detail, ability to manage high transaction volumes with zero errors, strong stakeholder communication skills, and comfort working in a fast-paced fintech environment.\n* Languages: Fluency in English is mandatory; proficiency in Arabic or Hindi/Urdu is an advantage.",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "",
-      "job_type": "fulltime",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed"
-    }
-  ]
+  "new_jobs": []
 }
